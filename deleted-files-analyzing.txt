@@ -1,0 +1,529 @@
+📂 Conflict Tree (Deleted files still modified in HEAD)
+
+├── edci-commons
+│     └─ set
+│   └── src
+│       ├── main
+│       │   ├── java
+│       │   │   └── eu
+│       │   │       └── europa
+│       │   │           └── ec
+│       │   │               └── empl
+│       │   │                   └── edci
+│       │   │                       ├── config
+│       │   │                       │   └── service
+│       │   │                       │         └─ IOIDCConfigService.java
+│       │   │                       ├── mapper
+│       │   │                       │   ├── accreditation
+│       │   │                       │   │     └─ QMSAccreditationsMapper.java
+│       │   │                       │   └── commons
+│       │   │                       │         └─ DurationLongMapper.java
+│       │   │                       ├── mvc
+│       │   │                       │     └─ EDCIMVCMainController.java
+│       │   │                       ├── rest
+│       │   │                       │     └─ AbstractBaseResource.java
+│       │   │                       ├── security
+│       │   │                       │     └─ EDCISecurityContextHolder.java
+│       │   │                       │   ├── model
+│       │   │                       │   │   └── mapper
+│       │   │                       │   │         └─ UserMapper.java
+│       │   │                       │   ├── oauth2
+│       │   │                       │   │     └─ EDCIOAuth2AuthenticationEntryPoint.java
+│       │   │                       │   │     └─ EDCIOAuth2ExceptionRenderer.java
+│       │   │                       │   ├── oidc
+│       │   │                       │   │     └─ EDCILogoutSuccessHandler.java
+│       │   │                       │   │     └─ EDCIOIDCAuthenticationEntryPoint.java
+│       │   │                       │   │     └─ EDCIOIDCAuthenticationProvider.java
+│       │   │                       │   │     └─ EDCIPlainAuthRequestUrlBuilder.java
+│       │   │                       │   │   └── filter
+│       │   │                       │   │         └─ EDCIOIDCAuthenticationFilter.java
+│       │   │                       │   ├── service
+│       │   │                       │   │     └─ EDCIAuthenticationService.java
+│       │   │                       │   └── session
+│       │   │                       │         └─ EDCINoRedirectInvalidSessionStrategy.java
+│       │   │                       │         └─ EDCIRedirectInvalidSessionStrategy.java
+│       │   │                       │         └─ EDCISimpleInvalidSessionStrategy.java
+│       │   │                       ├── service
+│       │   │                       │     └─ QMSAccreditationsService.java
+│       │   │                       └── util
+│       │   │                             └─ ThymeleafUtil.java
+│       │   │                             └─ VerificationResourceUtil.java
+│       │   └── resources
+│       │         └─ customConstraint.xml
+│       │         └─ issuer_test_seal_credential.xml
+│       │       ├── img
+│       │       │     └─ 503_service.jpg
+│       │       ├── jsonld
+│       │       │     └─ SemiOfficialContext.jsonld
+│       │       │     └─ context.jsonld
+│       │       │     └─ credential-sample-rdf.ttl
+│       │       │     └─ edc-ap.json
+│       │       │     └─ extendedContext.jsonld
+│       │       │     └─ minExtendedContext.jsonld
+│       │       │     └─ report.ttl
+│       │       │     └─ shape.ttl
+│       │       └── labels
+│       │           ├── front
+│       │           │   └── issuer
+│       │           │         └─ messages_hr.csv
+│       │           └── new
+│       │                 └─ Literals_20230110_R9_Translated.xlsx
+│       └── test
+│           ├── java
+│           │   ├── eu
+│           │   │   └── europa
+│           │   │       └── ec
+│           │   │           └── empl
+│           │   │               └── edci
+│           │   │                   └── util
+│           │   │                         └─ ThymeleafUtilTest.java
+│           │   └── integration
+│           │       └── eu
+│           │           └── europa
+│           │               └── ec
+│           │                   └── empl
+│           │                         └─ AppTest.java
+│           │                       ├── base
+│           │                       │     └─ AbstractIntegrationBaseTest.java
+│           │                       ├── edci
+│           │                       │   ├── model
+│           │                       │   │     └─ AccreditationDTOJSONUtilITest.java
+│           │                       │   └── parsers
+│           │                       │         └─ RDFParserITest.java
+│           │                       └── extra
+│           │                             └─ BeanX.java
+│           │                             └─ GroupA.java
+│           │                             └─ GroupB.java
+│           └── resources
+│                 └─ credential-multipleSchemaLocation.xml
+│                 └─ credential-withSubCred.xml
+│                 └─ credential-withspecialchars.xml
+│                 └─ person-withContactPoint-uriwallet.xml
+│                 └─ person-withContactPoint.xml
+│               ├── xsdValidation
+│               │     └─ verificable_presentation_mandated-xsd_v1.2.xml
+│               │     └─ verificable_presentation_mandated_dp-xsd_v1.2.xml
+│               │     └─ verificable_presentation_shared-xsd_v1.1.xml
+│               ├── xxeTest
+│               │     └─ xxe_base64.xml
+│               │     └─ xxe_dos.xml
+│               │     └─ xxe_entity.xml
+│               │     └─ xxe_file.txt
+│               │     └─ xxe_file.xml
+│               │     └─ xxe_remote.xml
+│               └── zipFiles
+│                     └─ credential-045cb3fe-1445-4766-9fdd-dfbbaa38550d.xml
+│                     └─ credential-045cb3fe-1445-4766-9fdd-dfbbaa38550e.xml
+│                     └─ credential-20210202_010101.zip
+├── edci-data-model
+│   └── src
+│       ├── main
+│       │   ├── java
+│       │   │   └── eu
+│       │   │       └── europa
+│       │   │           └── ec
+│       │   │               └── empl
+│       │   │                   └── edci
+│       │   │                       ├── datamodel
+│       │   │                       │   ├── jsonld
+│       │   │                       │   │   └── model
+│       │   │                       │   │       └── util
+│       │   │                       │   │             └─ JsonArrayUnMarshallListener.java
+│       │   │                       │   └── validation
+│       │   │                       │         └─ AfterSealing.java
+│       │   │                       ├── model
+│       │   │                       │   └── qmsaccreditation
+│       │   │                       │         └─ AccreditingAgent.java
+│       │   │                       │         └─ AdditionalNote.java
+│       │   │                       │         └─ Address.java
+│       │   │                       │         └─ AvailableLanguage.java
+│       │   │                       │         └─ ContactForm.java
+│       │   │                       │         └─ ContactPoint.java
+│       │   │                       │         └─ ContentEncoding.java
+│       │   │                       │         └─ ContentType.java
+│       │   │                       │         └─ CountryCode.java
+│       │   │                       │         └─ Decision.java
+│       │   │                       │         └─ EidasLegalIdentifier.java
+│       │   │                       │         └─ ExpiryDate.java
+│       │   │                       │         └─ FullAddress.java
+│       │   │                       │         └─ GroupMemberOf.java
+│       │   │                       │         └─ HasSubOrganization.java
+│       │   │                       │         └─ Homepage.java
+│       │   │                       │         └─ Identifier.java
+│       │   │                       │         └─ Issued.java
+│       │   │                       │         └─ LandingPage.java
+│       │   │                       │         └─ Language.java
+│       │   │                       │         └─ LimitCredentialType.java
+│       │   │                       │         └─ LimitEQFLevel.java
+│       │   │                       │         └─ LimitField.java
+│       │   │                       │         └─ LimitJurisdiction.java
+│       │   │                       │         └─ Location.java
+│       │   │                       │         └─ Logo.java
+│       │   │                       │         └─ Metadata.java
+│       │   │                       │         └─ Modified.java
+│       │   │                       │         └─ NoteFormat.java
+│       │   │                       │         └─ Organisation.java
+│       │   │                       │         └─ Phone.java
+│       │   │                       │         └─ Publisher.java
+│       │   │                       │         └─ QMSAccreditationDTO.java
+│       │   │                       │         └─ Registration.java
+│       │   │                       │         └─ Report.java
+│       │   │                       │         └─ ReviewDate.java
+│       │   │                       │         └─ Spatial.java
+│       │   │                       │         └─ SpatialCode.java
+│       │   │                       │         └─ SubOrganizationOf.java
+│       │   │                       │         └─ Subject.java
+│       │   │                       │         └─ SupplementaryDocument.java
+│       │   │                       │         └─ TaxIdentifier.java
+│       │   │                       │         └─ Type.java
+│       │   │                       │         └─ Valid.java
+│       │   │                       │         └─ VatIdentifier.java
+│       │   │                       └── parsers
+│       │   │                           └── rdf
+│       │   │                                 └─ RDFParser.java
+│       │   │                                 └─ RDFParserTree.java
+│       │   │                                 └─ RDFParserTreeLeaf.java
+│       │   └── resources
+│       │       ├── accreditations
+│       │       │     └─ MockedSampleAccreditation.json
+│       │       │     └─ MockedSampleAccreditation_2.json
+│       │       │     └─ ServiceSampleAccreditation.json
+│       │       └── jsonld
+│       │             └─ frame.jsonld
+│       └── test
+│           └── resources
+│               └── accreditation
+│                     └─ MockedSampleAccreditation.json
+│                     └─ MockedSampleAccreditation_2.json
+│                     └─ ServiceSampleAccreditation.json
+│                     └─ test_name_accredited_credential_false.xml
+│                     └─ test_name_accredited_credential_step1_true.xml
+│                     └─ test_name_accredited_credential_step2_awardingBody_false.xml
+│                     └─ test_name_accredited_credential_step2_awardingBody_issuerTrue.xml
+│                     └─ test_name_accredited_credential_step2_awardingBody_true.xml
+│                     └─ test_name_accredited_credential_step2_issuer_false.xml
+│                     └─ test_name_accredited_credential_step2_issuer_true.xml
+│                     └─ test_name_accredited_credential_step2_true.xml
+├── edci-eseal-core
+│   └── src
+│       └── test
+│           └── java
+│               └── integration
+│                   └── eu
+│                       └── europa
+│                           └── ec
+│                               └── empl
+│                                   └── edci
+│                                       └── dss
+│                                           └── service
+│                                                 └─ ESealValidationServiceITest.java
+├── edci-issuer
+│   ├── edci-issuer-common
+│   │   └── src
+│   │       └── main
+│   │           └── java
+│   │               └── eu
+│   │                   └── europa
+│   │                       └── ec
+│   │                           └── empl
+│   │                               └── edci
+│   │                                   └── issuer
+│   │                                       └── common
+│   │                                           └── model
+│   │                                                 └─ DeliveryDetailsDTO.java
+│   ├── edci-issuer-service
+│   │   └── src
+│   │       ├── main
+│   │       │   └── java
+│   │       │       └── eu
+│   │       │           └── europa
+│   │       │               └── ec
+│   │       │                   └── empl
+│   │       │                       └── edci
+│   │       │                           └── issuer
+│   │       │                               ├── mapper
+│   │       │                               │   └── datamodel
+│   │       │                               │         └─ RecipientPersonMapper.java
+│   │       │                               ├── service
+│   │       │                               │     └─ AssociationService.java
+│   │       │                               │   └── security
+│   │       │                               │         └─ UserDetailsServiceCustom.java
+│   │       │                               └── task
+│   │       │                                     └─ ControlledListsTask.java
+│   │       └── test
+│   │           ├── java
+│   │           │   ├── eu
+│   │           │   │   └── europa
+│   │           │   │       └── ec
+│   │           │   │           └── empl
+│   │           │   │               ├── base
+│   │           │   │               │     └─ SpringBaseTest.java
+│   │           │   │               └── edci
+│   │           │   │                   └── issuer
+│   │           │   │                       ├── certificate
+│   │           │   │                       │     └─ CertificateTest.java
+│   │           │   │                       ├── mapper
+│   │           │   │                       │     └─ EuropassCredentialMapperTest.java
+│   │           │   │                       │     └─ LearningActivityMapperTest.java
+│   │           │   │                       ├── service
+│   │           │   │                       │     └─ IssuerCustomizedModelServiceITest.java
+│   │           │   │                       │     └─ QualificationTest.java
+│   │           │   │                       │   └── spec
+│   │           │   │                       │         └─ ControlledListsServiceTest.java
+│   │           │   │                       └── util
+│   │           │   │                             └─ EmptiableTest.java
+│   │           │   └── integration
+│   │           │       └── eu
+│   │           │           └── europa
+│   │           │               └── ec
+│   │           │                   └── empl
+│   │           │                       └── edci
+│   │           │                           └── issuer
+│   │           │                               └── service
+│   │           │                                   └── spec
+│   │           │                                         └─ ControlledListServiceITest.java
+│   │           │                                         └─ SPARQLITest.java
+│   │           ├── resources
+│   │           │   └── out
+│   │           │         └─ image.jpeg
+│   │           │         └─ image0.png
+│   │           │         └─ image1.png
+│   │           │         └─ image2.png
+│   │           │         └─ image3.png
+│   │           │         └─ image4.png
+│   │           │         └─ image5.png
+│   │           │         └─ image6.png
+│   │           └── resources-unfiltered
+│   │               └── dss
+│   │                     └─ keystore.p12
+│   ├── edci-issuer-web
+│   │   └── src
+│   │       └── main
+│   │           ├── angular
+│   │           │     └─ .stylelintrc
+│   │           │     └─ package-lock.json
+│   │           │     └─ tslint.json
+│   │           │   └── src
+│   │           │         └─ polyfills.ts
+│   │           │         └─ tslint.json
+│   │           │       └── app
+│   │           │           ├── features
+│   │           │           │   └── credential-builder
+│   │           │           │       └── components
+│   │           │           │           ├── accreditation-form
+│   │           │           │           │     └─ accreditation-form-routing.module.ts
+│   │           │           │           │     └─ accreditation-form.component.html
+│   │           │           │           │     └─ accreditation-form.component.scss
+│   │           │           │           │     └─ accreditation-form.module.ts
+│   │           │           │           ├── forms
+│   │           │           │           │   └── accreditation
+│   │           │           │           │         └─ accreditation.component.scss
+│   │           │           │           └── modals
+│   │           │           │               └── credentials-modal
+│   │           │           │                     └─ credentials-modal.component.html
+│   │           │           │                     └─ credentials-modal.component.scss
+│   │           │           │                     └─ credentials-modal.component.ts
+│   │           │           └── shared
+│   │           │               ├── components
+│   │           │               │   └── spinner-dialog
+│   │           │               │         └─ spinner-dialog.component.html
+│   │           │               │         └─ spinner-dialog.component.scss
+│   │           │               │         └─ spinner-dialog.component.ts
+│   │           │               └── directives
+│   │           │                     └─ routeTransformer.directive.ts
+│   │           ├── resources
+│   │           │     └─ spring-security-oauth2-2.0.xsd
+│   │           │     └─ spring-security.xml
+│   │           │   └── keystore
+│   │           │         └─ keystore.p12
+│   │           └── resources-unfiltered
+│   │               ├── keystore
+│   │               │     └─ keystore.p12
+│   │               └── lib
+│   │                   ├── ext
+│   │                   │     └─ activation.jar
+│   │                   │     └─ bcprov-jdk15on-1.68.jar
+│   │                   │     └─ javaee-api-7.0.jar
+│   │                   │     └─ jstl-1.2.jar
+│   │                   │     └─ mysql-connector-java-8.0.28.jar
+│   │                   └── oracle
+│   │                         └─ ojdbc.policy
+│   │                         └─ ojdbc8.jar
+│   │                         └─ ucp.jar
+│   └── edci-issuer-web-rest
+│       └── src
+│           └── main
+│               └── java
+│                   └── eu
+│                       └── europa
+│                           └── ec
+│                               └── empl
+│                                   └── edci
+│                                       └── issuer
+│                                           └── web
+│                                               ├── model
+│                                               │   └── dataTypes
+│                                               │         └─ DataTypeView.java
+│                                               └── rest
+│                                                   ├── v1
+│                                                   │   ├── open
+│                                                   │   │     └─ CredentialPublicResource.java
+│                                                   │   └── spec
+│                                                   │         └─ ExternalAccreditationResource.java
+│                                                   └── v2
+│                                                         └─ TestResource.java
+├── edci-viewer
+│   ├── edci-viewer-web
+│   │   └── src
+│   │       └── main
+│   │           ├── angular
+│   │           │     └─ tslint.json
+│   │           │   ├── e2e
+│   │           │   │     └─ tsconfig.e2e.json
+│   │           │   │   └── src
+│   │           │   │         └─ app.e2e-spec.ts
+│   │           │   │         └─ app.po.ts
+│   │           │   └── src
+│   │           │         └─ polyfills.ts
+│   │           │         └─ tslint.json
+│   │           │       └── app
+│   │           │           └── shared
+│   │           │               └── mocks
+│   │           │                     └─ edci.mock.ts
+│   │           ├── resources
+│   │           │     └─ spring-security.xml
+│   │           └── resources-unfiltered
+│   │               └── lib
+│   │                   ├── ext
+│   │                   │     └─ activation.jar
+│   │                   │     └─ bcprov-jdk15on-1.68.jar
+│   │                   │     └─ javaee-api-7.0.jar
+│   │                   │     └─ javax.mail-1.5.0.jar
+│   │                   │     └─ jstl-1.2.jar
+│   │                   └── oracle
+│   │                         └─ ojdbc.policy
+│   │                         └─ ojdbc8.jar
+│   │                         └─ ucp.jar
+│   └── edci-viewer-web-rest
+│       └── src
+│           └── main
+│               └── java
+│                   └── eu
+│                       └── europa
+│                           └── ec
+│                               └── empl
+│                                   └── edci
+│                                       └── viewer
+│                                           └── web
+│                                                 └─ SingleSignoutController.java
+└── edci-wallet
+    ├── edci-wallet-common
+    │   └── src
+    │       └── main
+    │           └── java
+    │               └── eu
+    │                   └── europa
+    │                       └── ec
+    │                           └── empl
+    │                               └── edci
+    │                                   └── wallet
+    │                                       └── common
+    │                                           └── model
+    │                                               └── verification
+    │                                                     └─ InstitutionalAccreditation.java
+    │                                                     └─ LimitEQFLevel.java
+    │                                                     └─ LimitField.java
+    │                                                     └─ LimitJurisdiction.java
+    │                                                     └─ QMSAccreditation.java
+    │                                                     └─ QMSAccreditations.java
+    │                                                     └─ QualificationAccreditation.java
+    │                                                     └─ package-info.java
+    ├── edci-wallet-persistence
+    │   └── src
+    │       └── main
+    │           └── java
+    │               └── eu
+    │                   └── europa
+    │                       └── ec
+    │                           └── empl
+    │                               └── edci
+    │                                   └── wallet
+    │                                       ├── entity
+    │                                       │     └─ ConversionLockDAO.java
+    │                                       │     └─ EmailLockDAO.java
+    │                                       └── repository
+    │                                             └─ ConversionLockRepository.java
+    │                                             └─ EmailLockRepository.java
+    ├── edci-wallet-service
+    │   └── src
+    │       ├── main
+    │       │   ├── java
+    │       │   │   └── eu
+    │       │   │       └── europa
+    │       │   │           └── ec
+    │       │   │               └── empl
+    │       │   │                   └── edci
+    │       │   │                       └── wallet
+    │       │   │                           └── service
+    │       │   │                                 └─ CredentialLocalizableInfoService.java
+    │       │   │                               └── liquibase
+    │       │   │                                     └─ CustomChangeWalletBlobs.java
+    │       │   │                                     └─ ProcessDuplicatedWalletEmailsTask.java
+    │       │   └── resources
+    │       │       ├── keystore
+    │       │       │     └─ keystore.p12
+    │       │       └── signCredential
+    │       │             └─ keystore.p12
+    │       │             └─ pin_keystore.txt
+    │       └── test
+    │           └── java
+    │               ├── eu
+    │               │   └── europa
+    │               │       └── ec
+    │               │           └── empl
+    │               │               └── edci
+    │               │                   └── wallet
+    │               │                       └── service
+    │               │                           └── security
+    │               │                                 └─ CredentialServiceTest.java
+    │               │                                 └─ WalletServiceTest.java
+    │               └── integration
+    │                   └── eu
+    │                       └── europa
+    │                           └── ec
+    │                               └── empl
+    │                                   └── edci
+    │                                       └── wallet
+    │                                           └── service
+    │                                                 └─ CredentialServiceITest.java
+    │                                                 └─ VerifiablePresentationITest.java
+    ├── edci-wallet-web
+    │   └── src
+    │       └── main
+    │           ├── resources
+    │           │     └─ spring-security.xml
+    │           └── resources-unfiltered
+    │               └── lib
+    │                   ├── ext
+    │                   │     └─ activation.jar
+    │                   │     └─ bcprov-jdk15on-1.68.jar
+    │                   │     └─ javaee-api-7.0.jar
+    │                   │     └─ jstl-1.2.jar
+    │                   ├── mysql
+    │                   │     └─ mysql-connector-java-8.0.25.jar
+    │                   └── oracle
+    │                         └─ ojdbc.policy
+    │                         └─ ojdbc8.jar
+    │                         └─ ucp.jar
+    └── edci-wallet-web-rest
+        └── src
+            └── main
+                └── java
+                    └── eu
+                        └── europa
+                            └── ec
+                                └── empl
+                                    └── edci
+                                        └── wallet
+                                            └── web
+                                                  └─ SingleSignoutController.java
