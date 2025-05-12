@@ -1,0 +1,551 @@
+🎯 Matching Paths (Suffix-Based):
+
+BrevApp: pom.xml
+   EDCI: pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-commons-core/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-commons-security/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-commons-oauth2-client/pom.xml
+
+BrevApp: src/test/resources/imgTest/lego.png
+   EDCI: edci-commons-core/src/test/resources/imgTest/lego.png
+
+BrevApp: src/test/resources/xsdValidation/lego.png
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/lego.png
+
+BrevApp: src/test/resources/xsdValidation/testing_080.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/testing_080.xml
+
+BrevApp: src/test/resources/xsdValidation/credential-generic-profile-xsd-ko.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/credential-generic-profile-xsd-ko.xml
+
+BrevApp: src/test/resources/xsdValidation/credential-generic-contactPoint-choice-KO.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/credential-generic-contactPoint-choice-KO.xml
+
+BrevApp: src/test/resources/xsdValidation/credential-diploma-profile-xsd_v1.2.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/credential-diploma-profile-xsd_v1.2.xml
+
+BrevApp: src/test/resources/xsdValidation/credential-generic-profile-xsd-signed.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/credential-generic-profile-xsd-signed.xml
+
+BrevApp: src/test/resources/xsdValidation/credential-generic-profile-xsd_v1.0.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/credential-generic-profile-xsd_v1.0.xml
+
+BrevApp: src/test/resources/xsdValidation/credential-generic-profile-xsd_v1.1.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/credential-generic-profile-xsd_v1.1.xml
+
+BrevApp: src/test/resources/xsdValidation/verificable_presentation_mandated-xsd_v1.1.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/verificable_presentation_mandated-xsd_v1.1.xml
+
+BrevApp: src/test/resources/xsdValidation/credential-generic-profile-xsd_v1.2.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/credential-generic-profile-xsd_v1.2.xml
+
+BrevApp: src/test/resources/xsdValidation/verificable_presentation_mandated-xsd_v1.0.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/verificable_presentation_mandated-xsd_v1.0.xml
+
+BrevApp: src/test/resources/xsdValidation/edci_credential_0100.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/edci_credential_0100.xml
+
+BrevApp: src/test/resources/xsdValidation/credential-generic-contactPoint-choice-OK.xml
+   EDCI: edci-commons-core/src/test/resources/xsdValidation/credential-generic-contactPoint-choice-OK.xml
+
+BrevApp: src/test/resources/accreditation/MockedSampleAccreditation.json
+   EDCI: edci-commons-core/src/test/resources/accreditation/MockedSampleAccreditation.json
+
+BrevApp: src/test/resources/accreditation/test_name_accredited_credential_step2_awardingBody_false.xml
+   EDCI: edci-commons-core/src/test/resources/accreditation/test_name_accredited_credential_step2_awardingBody_false.xml
+
+BrevApp: src/test/resources/accreditation/test_name_accredited_credential_step1_true.xml
+   EDCI: edci-commons-core/src/test/resources/accreditation/test_name_accredited_credential_step1_true.xml
+
+BrevApp: src/test/resources/accreditation/test_name_accredited_credential_step2_issuer_true.xml
+   EDCI: edci-commons-core/src/test/resources/accreditation/test_name_accredited_credential_step2_issuer_true.xml
+
+BrevApp: src/test/resources/accreditation/test_name_accredited_credential_false.xml
+   EDCI: edci-commons-core/src/test/resources/accreditation/test_name_accredited_credential_false.xml
+
+BrevApp: src/test/resources/accreditation/test_name_accredited_credential_step2_awardingBody_issuerTrue.xml
+   EDCI: edci-commons-core/src/test/resources/accreditation/test_name_accredited_credential_step2_awardingBody_issuerTrue.xml
+
+BrevApp: src/test/resources/accreditation/test_name_accredited_credential_step2_awardingBody_true.xml
+   EDCI: edci-commons-core/src/test/resources/accreditation/test_name_accredited_credential_step2_awardingBody_true.xml
+
+BrevApp: src/test/resources/accreditation/MockedSampleAccreditation_2.json
+   EDCI: edci-commons-core/src/test/resources/accreditation/MockedSampleAccreditation_2.json
+
+BrevApp: src/test/resources/accreditation/test_name_accredited_credential_step2_true.xml
+   EDCI: edci-commons-core/src/test/resources/accreditation/test_name_accredited_credential_step2_true.xml
+
+BrevApp: src/test/resources/accreditation/ServiceSampleAccreditation.json
+   EDCI: edci-commons-core/src/test/resources/accreditation/ServiceSampleAccreditation.json
+
+BrevApp: src/test/resources/accreditation/test_name_accredited_credential_step2_issuer_false.xml
+   EDCI: edci-commons-core/src/test/resources/accreditation/test_name_accredited_credential_step2_issuer_false.xml
+
+BrevApp: src/test/resources/diploma/diploma_default.html
+   EDCI: edci-commons-core/src/test/resources/diploma/diploma_default.html
+
+BrevApp: src/test/resources/diploma/diploma_default_thymeleaf.html
+   EDCI: edci-commons-core/src/test/resources/diploma/diploma_default_thymeleaf.html
+
+BrevApp: src/test/resources/diploma/diploma-background.png
+   EDCI: edci-commons-core/src/test/resources/diploma/diploma-background.png
+
+BrevApp: src/test/resources/diploma/chuck.jpg
+   EDCI: edci-commons-core/src/test/resources/diploma/chuck.jpg
+
+BrevApp: src/test/resources/diploma/logo_default.png
+   EDCI: edci-commons-core/src/test/resources/diploma/logo_default.png
+
+BrevApp: src/test/resources/diploma/transparent_logo.png
+   EDCI: edci-commons-core/src/test/resources/diploma/transparent_logo.png
+
+BrevApp: src/test/resources/diploma/diploma_credential.xml
+   EDCI: edci-commons-core/src/test/resources/diploma/diploma_credential.xml
+
+BrevApp: src/test/resources/diploma/diploma_credential_date_pipe.xml
+   EDCI: edci-commons-core/src/test/resources/diploma/diploma_credential_date_pipe.xml
+
+BrevApp: src/test/resources/jsonld/cred2_1context.jsonld
+   EDCI: edci-commons-core/src/test/resources/jsonld/cred2_1context.jsonld
+
+BrevApp: src/test/resources/jsonld/cred1.jsonld
+   EDCI: edci-commons-core/src/test/resources/jsonld/cred1.jsonld
+
+BrevApp: src/test/resources/jsonld/credential-jws-invalid.jsonld
+   EDCI: edci-commons-core/src/test/resources/jsonld/credential-jws-invalid.jsonld
+
+BrevApp: src/test/java/eu/europa/ec/empl/edci/util/JsonUtilTest.java
+   EDCI: edci-commons-core/src/test/java/eu/europa/ec/empl/edci/util/JsonUtilTest.java
+
+BrevApp: src/test/java/eu/europa/ec/empl/edci/util/ControlledListsUtilTest.java
+   EDCI: edci-commons-core/src/test/java/eu/europa/ec/empl/edci/util/ControlledListsUtilTest.java
+
+BrevApp: src/test/java/eu/europa/ec/empl/edci/util/ImageUtilTest.java
+   EDCI: edci-commons-core/src/test/java/eu/europa/ec/empl/edci/util/ImageUtilTest.java
+
+BrevApp: src/test/java/eu/europa/ec/empl/base/AbstractUnitBaseTest.java
+   EDCI: edci-commons-core/src/test/java/eu/europa/ec/empl/base/AbstractUnitBaseTest.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/EDCIResourceResolver.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/EDCIResourceResolver.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/EDCIInput.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/EDCIInput.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/repository/util/SpecSearchCriteria.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/repository/util/SpecSearchCriteria.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/repository/util/SearchOperation.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/repository/util/SearchOperation.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/repository/entity/IMultilangDAO.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/repository/entity/IMultilangDAO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/repository/entity/IAuditDAO.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/repository/entity/IAuditDAO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/repository/entity/ILabeledDAO.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/repository/entity/ILabeledDAO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/repository/entity/IAuditedDAO.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/repository/entity/IAuditedDAO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/repository/entity/IGenericDAO.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/repository/entity/IGenericDAO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/repository/entity/IOCBIdentifiedDAO.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/repository/entity/IOCBIdentifiedDAO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/repository/mapper/InputsParser.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/repository/mapper/InputsParser.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/repository/mapper/IRestMapper.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/repository/mapper/IRestMapper.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/repository/rest/model/INameDisplayableView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/repository/rest/model/INameDisplayableView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/context/ConsumerContext.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/context/ConsumerContext.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/context/SpringApplicationContext.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/context/SpringApplicationContext.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/util/ZipUtil.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/util/ZipUtil.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/util/ContextAwareCallable.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/util/ContextAwareCallable.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/util/EDCIValidationUtil.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/util/EDCIValidationUtil.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/util/HtmlSanitizerUtil.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/util/HtmlSanitizerUtil.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/util/ImageUtil.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/util/ImageUtil.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/util/DiplomaUtil.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/util/DiplomaUtil.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/util/ExternalServicesUtil.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/util/ExternalServicesUtil.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/util/proxy/EDCIProxyConfig.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/util/proxy/EDCIProxyConfig.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/util/proxy/EDCIProxyProperties.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/util/proxy/EDCIProxyProperties.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/util/proxy/DataLoaderUtil.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/util/proxy/DataLoaderUtil.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mvc/EDCIMVCMainController.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mvc/EDCIMVCMainController.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mvc/EDCIMVCUtil.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mvc/EDCIMVCUtil.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/config/service/IMVCConfigService.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/config/service/IMVCConfigService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/config/service/IDBConfigService.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/config/service/IDBConfigService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/EDCISecurityContextHolder.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/EDCISecurityContextHolder.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/oidc/EDCIAuthenticationSuccessHandler.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/oidc/EDCIAuthenticationSuccessHandler.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/oidc/EDCILogoutSuccessHandler.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/oidc/EDCILogoutSuccessHandler.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/model/dto/EDCITokenEndpointResponse.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/model/dto/EDCITokenEndpointResponse.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/model/dto/UserDetailsDTO.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/model/dto/UserDetailsDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/model/dto/LogOutResponseDTO.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/model/dto/LogOutResponseDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/model/mapper/UserRestMapper.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/model/mapper/UserRestMapper.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/model/view/UserDetailsView.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/model/view/UserDetailsView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/filter/CorsFilter.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/filter/CorsFilter.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/service/EDCIUserService.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/service/EDCIUserService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/service/EDCIAuthenticationService.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/service/EDCIAuthenticationService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/service/base/EDCIAuthorizationService.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/service/base/EDCIAuthorizationService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/service/base/IEDCIAuthorizationService.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/service/base/IEDCIAuthorizationService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/service/base/IEDCIUserService.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/service/base/IEDCIUserService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/service/base/IEDCIAuthenticationService.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/service/base/IEDCIAuthenticationService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/base/IEDCISecurityContextHolder.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/base/IEDCISecurityContextHolder.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/security/session/SessionCreationListener.java
+   EDCI: edci-commons-security/src/main/java/eu/europa/ec/empl/edci/security/session/SessionCreationListener.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/constants/EDCIConfig.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/constants/EDCIConfig.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/constants/EDCIConstants.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/constants/EDCIConstants.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/constants/EDCIParameter.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/constants/EDCIParameter.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/constants/MediaType.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/constants/MediaType.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/constants/EDCIEndpoint.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/constants/EDCIEndpoint.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/sanitizer/HtmlSanitizerChangeListener.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/sanitizer/HtmlSanitizerChangeListener.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/sanitizer/EDCISanitizedHtml.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/sanitizer/EDCISanitizedHtml.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/sanitizer/EDCISanitizers.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/sanitizer/EDCISanitizers.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mapper/EuropassCredentialPresentationMapper.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mapper/EuropassCredentialPresentationMapper.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mapper/CredentialVerificationRestMapper.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mapper/CredentialVerificationRestMapper.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mapper/PresentationCommonsMapper.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mapper/PresentationCommonsMapper.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mapper/BaseMapper.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mapper/BaseMapper.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mapper/EuropassCredentialDetailRestMapper.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mapper/EuropassCredentialDetailRestMapper.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mapper/commons/StringBytesMapping.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mapper/commons/StringBytesMapping.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mapper/commons/StringDateMapping.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mapper/commons/StringDateMapping.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mapper/commons/StringUriMapping.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mapper/commons/StringUriMapping.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mapper/annotations/RuntimeMappings.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mapper/annotations/RuntimeMappings.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/mapper/annotations/RuntimeMapping.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/mapper/annotations/RuntimeMapping.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/annotation/CustomizableEntityDTO.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/annotation/CustomizableEntityDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/annotation/EmptiableIgnore.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/annotation/EmptiableIgnore.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/annotation/Resize.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/annotation/Resize.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/annotation/EDCIConsumer.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/annotation/EDCIConsumer.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/annotation/CustomizableCLFieldDTO.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/annotation/CustomizableCLFieldDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/Emptiable.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/Emptiable.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/AppDetails.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/AppDetails.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/dataTypes/IContent.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/dataTypes/IContent.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/EuropassCredentialDetailView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/EuropassCredentialDetailView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/EuropassDiplomaDTO.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/EuropassDiplomaDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/VerificationCheckView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/VerificationCheckView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/EuropassDiplomaView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/EuropassDiplomaView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/EuropassCredentialPresentationLiteView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/EuropassCredentialPresentationLiteView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/EuropassCredentialPresentationView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/EuropassCredentialPresentationView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/CredentialVerifyRequestView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/CredentialVerifyRequestView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/tabs/AchievementTabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/tabs/AchievementTabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/tabs/ActivitySpecTabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/tabs/ActivitySpecTabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/tabs/EntitlementTabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/tabs/EntitlementTabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/tabs/AssessmentSpecTabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/tabs/AssessmentSpecTabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/tabs/CredentialMetadataTabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/tabs/CredentialMetadataTabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/tabs/AchievementSpecTabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/tabs/AchievementSpecTabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/tabs/AssessmentTabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/tabs/AssessmentTabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/tabs/CredentialSubjectTabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/tabs/CredentialSubjectTabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/tabs/EntitlementSpecTabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/tabs/EntitlementSpecTabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/tabs/OrganizationTabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/tabs/OrganizationTabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/tabs/ActivityTabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/tabs/ActivityTabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/PriceDetailFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/PriceDetailFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/MailboxFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/MailboxFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/LearningOutcomeFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/LearningOutcomeFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/GrantFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/GrantFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/PeriodOfTimeFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/PeriodOfTimeFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/DisplayParametersFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/DisplayParametersFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/AwardingOpportunityFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/AwardingOpportunityFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/CreditPointFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/CreditPointFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/AmountFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/AmountFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/AccreditationFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/AccreditationFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/AwardingProcessFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/AwardingProcessFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/ResultCategoryFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/ResultCategoryFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/EvidenceFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/EvidenceFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/GradingSchemeFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/GradingSchemeFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/QualificationFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/QualificationFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/IndividualDisplayFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/IndividualDisplayFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/GeometryFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/GeometryFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/LinkFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/LinkFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/ContactPointFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/ContactPointFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/LearningOpportunityFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/LearningOpportunityFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/GroupFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/GroupFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/NoteFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/NoteFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/LocationFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/LocationFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/MediaObjectFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/MediaObjectFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/PhoneFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/PhoneFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/IdentifierFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/IdentifierFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/ShortenedGradingFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/ShortenedGradingFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/VerificationCheckFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/VerificationCheckFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/DisplayDetailFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/DisplayDetailFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/ResultDistributionFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/ResultDistributionFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/fields/AddressFieldView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/fields/AddressFieldView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/base/ITabView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/base/ITabView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/base/AgentView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/base/AgentView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/base/SpecificationView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/base/SpecificationView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/view/base/ClaimView.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/view/base/ClaimView.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/external/EDCISignatureSimpleReport.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/external/EDCISignatureSimpleReport.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/external/EDCISignatureReports.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/external/EDCISignatureReports.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/model/base/ILocalizable.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/model/base/ILocalizable.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/service/EDCIMailService.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/service/EDCIMailService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/service/EDCIFileService.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/service/EDCIFileService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/liquibase/EDCIAbstractCustomTask.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/liquibase/EDCIAbstractCustomTask.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/exception/ExceptionResponse.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/exception/ExceptionResponse.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/exception/clientErrors/EDCIBadRequestException.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/exception/clientErrors/EDCIBadRequestException.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/exception/clientErrors/EDCINotFoundException.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/exception/clientErrors/EDCINotFoundException.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/exception/security/EDCIUnauthorizedException.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/exception/security/EDCIUnauthorizedException.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/exception/security/EDCIForbiddenException.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/exception/security/EDCIForbiddenException.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/factory/ConsumerFactory.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/factory/ConsumerFactory.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/factory/EDCIBeanFactory.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/factory/EDCIBeanFactory.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/rest/ExceptionControllerAdvice.java
+   EDCI: edci-commons-core/src/main/java/eu/europa/ec/empl/edci/rest/ExceptionControllerAdvice.java
+

@@ -2,8 +2,8 @@ import os
 from pathlib import Path
 
 # ✅ Make sure these are Path objects, not strings!
-dir1 = Path("/Users/haniehhabibi/Web2Learn/Projects/BrevApp")
-dir2 = Path("/Users/haniehhabibi/Web2Learn/Projects/european-digital-credentials")
+dir1 = Path("/Users/haniehhabibi/Web2Learn/Projects/BrevApping/BrevApp")
+dir2 = Path("/Users/haniehhabibi/Web2Learn/Projects/BrevApping/european-digital-credentials")
 
 # 🧾 Store output lines
 output = []

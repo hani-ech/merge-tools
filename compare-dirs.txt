@@ -50,7 +50,7 @@
 ✅ edci-data-model/src/main/java/eu/europa/ec/empl/edci/config
 ✅ edci-data-model/src/main/java/eu/europa/ec/empl/edci/config/service
 ✅ edci-data-model/src/main/java/eu/europa/ec/empl/edci/constants
-✅ edci-data-model/src/main/java/eu/europa/ec/empl/edci/datamodel
+✅ edci-data-model/src/main/java/eu/europa/ec/empl/edci/data model
 ✅ edci-data-model/src/main/java/eu/europa/ec/empl/edci/datamodel/adapter
 ✅ edci-data-model/src/main/java/eu/europa/ec/empl/edci/datamodel/controlledList
 ✅ edci-data-model/src/main/java/eu/europa/ec/empl/edci/datamodel/jsonld

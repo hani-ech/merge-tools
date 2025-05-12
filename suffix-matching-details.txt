@@ -1,0 +1,4 @@
+📊 Suffix Match Counts by EDCI Module:
+  edci-commons-core: 163
+  edci-commons-oauth2-client: 1
+  edci-commons-security: 18

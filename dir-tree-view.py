@@ -21,8 +21,8 @@ def get_dir_tree_lines(base_path, prefix=""):
     return lines
 
 # ✏️ Set your two base directories here
-dir1 = "/Users/haniehhabibi/Web2Learn/Projects/BrevApp"
-dir2 = "/Users/haniehhabibi/Web2Learn/Projects/european-digital-credentials"
+dir1 = "/Users/haniehhabibi/Web2Learn/Projects/BrevApping/BrevApp"
+dir2 = "/Users/haniehhabibi/Web2Learn/Projects/BrevApping/european-digital-credentials"
 
 tree1 = get_dir_tree_lines(dir1)
 tree2 = get_dir_tree_lines(dir2)
