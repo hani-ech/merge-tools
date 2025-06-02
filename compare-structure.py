@@ -1,3 +1,20 @@
+"""
+compare-structure.py
+
+This script compares the **complete set of subdirectory paths** between two given directories.
+It lists which subdirectories are:
+
+- Only in the first directory (path_a)
+- Only in the second directory (path_b)
+- Present in both
+
+Unlike recursive diff tools that inspect contents, this focuses purely on **directory structure**.
+
+Useful during refactoring or merging of codebases to assess how folder structures differ
+(e.g., between a legacy fork and an upstream update).
+
+"""
+
 import os
 from pathlib import Path
 

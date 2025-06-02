@@ -1,3 +1,13 @@
+"""
+This script compares two lists of file paths:
+1. A full list of file paths from the EDCI repository (`edc_file`)
+2. A list of suffix-matching paths extracted from a comparison result (`matching_file`)
+
+It identifies which paths in the EDCI repository are *not* found in the suffix-matching list
+and prints those unmatched paths. The `matching_file` is expected to contain lines starting
+with 'EDCI:' followed by the path of interest.
+"""
+
 from pathlib import Path
 
 #brevapp_file = "edci-commons-brevApp.txt"

@@ -1,3 +1,15 @@
+"""
+This script performs a suffix-based comparison of file paths from two repositories:
+- `edci-commons-brevApp.txt` contains relative paths from the BrevApp version.
+- `edci-commons-EDC.txt` contains relative paths from the EDCI release version.
+
+It compares the paths by checking if one is a suffix of the other, meaning their trailing
+directories and filenames match (even if the root paths differ). This is useful for identifying
+shared file structure or common files across two differently organized projects.
+
+The script prints all matching pairs of paths where the suffix of one matches the other.
+"""
+
 from pathlib import Path
 
 # Load and normalize paths from two files

@@ -1,3 +1,22 @@
+"""
+deleted-files-analyzing.py
+
+This script parses a Git conflict summary (conflicts.txt) to extract and visualize cases where a file was
+**deleted in the new branch but modified in HEAD** — typically resulting in a 'modify/delete' conflict.
+
+It builds a **tree-like directory structure** from these paths to help developers quickly locate and understand
+where such conflicts occurred in the project hierarchy.
+
+Key Features:
+-------------
+- Parses lines matching the 'CONFLICT (modify/delete)' pattern
+- Groups conflicts by folder using a nested dictionary
+- Prints a visual tree of affected folders and files
+- Highlights only files that were **deleted remotely but still modified locally**
+
+
+"""
+
 import re
 from pathlib import Path
 from collections import defaultdict

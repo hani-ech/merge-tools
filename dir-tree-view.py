@@ -1,3 +1,17 @@
+"""
+compare-tree-structure.py
+
+This script compares the **directory trees** of two project folders and prints them **side by side** for easy visual inspection.
+It provides a tree-like structure of each directory and highlights any structural divergence clearly and cleanly.
+
+How to Use:
+-----------
+1. Set `dir1` and `dir2` to the paths you want to compare.
+2. Adjust `exclude_dirs` if needed to ignore additional directories.
+3. Run the script — you’ll see a visual diff of both structures printed to the console.
+
+"""
+
 import os
 from pathlib import Path
 from itertools import zip_longest

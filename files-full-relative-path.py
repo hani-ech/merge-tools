@@ -1,3 +1,12 @@
+"""
+
+This script recursively lists the **relative paths of all files** under a given root directory.
+
+- Useful for:
+  - Comparing file structures between projects
+  - Creating file lists for further analysis or matching
+"""
+
 from pathlib import Path
 
 #root_dir = Path("/Users/haniehhabibi/Web2Learn/Projects/BrevApping/european-digital-credentials/edci-commons")

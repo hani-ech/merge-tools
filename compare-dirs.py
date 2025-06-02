@@ -1,3 +1,21 @@
+"""
+compare-dirs.py
+
+This script recursively compares the **subdirectory structure** of two given directories.
+It prints a tree-style report showing which subdirectories are:
+
+- ✅ Present in both directories
+- 🟦 Present only in the first directory (dir1)
+- 🟥 Present only in the second directory (dir2)
+
+Key Features:
+-------------
+- Skips going deeper if a subdirectory is missing in one of the two paths
+- Useful for detecting structural divergence before merging two similar projects
+- Customizable by updating `dir1` and `dir2` paths to your local folder names
+
+"""
+
 import os
 from pathlib import Path
 
