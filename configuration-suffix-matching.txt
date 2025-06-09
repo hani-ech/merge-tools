@@ -1,0 +1,59 @@
+🎯 Matching Paths (Suffix-Based):
+
+BrevApp: documentation/img_1.png
+   EDCI: documentation/img_1.png
+
+BrevApp: documentation/controlledLists.md
+   EDCI: documentation/controlledLists.md
+
+BrevApp: documentation/escoFramework.md
+   EDCI: documentation/escoFramework.md
+
+BrevApp: documentation/img.png
+   EDCI: documentation/img.png
+
+BrevApp: documentation/oidcIntegration.md
+   EDCI: documentation/oidcIntegration.md
+
+BrevApp: documentation/mvn_settings.xml
+   EDCI: documentation/mvn_settings.xml
+
+BrevApp: documentation/diplomaWildcards.md
+   EDCI: documentation/diplomaWildcards.md
+
+BrevApp: documentation/tomcatConfiguration.md
+   EDCI: documentation/tomcatConfiguration.md
+
+BrevApp: tools/traductor/excel2json.py
+   EDCI: tools/traductor/excel2json.py
+
+BrevApp: tools/traductor/README.md
+   EDCI: tools/traductor/README.md
+
+BrevApp: tools/traductor/json2excel.py
+   EDCI: tools/traductor/json2excel.py
+
+BrevApp: docker/mysql/Dockerfile
+   EDCI: docker/mysql/Dockerfile
+
+BrevApp: docker/mysql/sql/01-databases.sql
+   EDCI: docker/mysql/sql/01-databases.sql
+
+BrevApp: quality/checkstyle/checkstyle_rules.xml
+   EDCI: quality/checkstyle/checkstyle_rules.xml
+
+BrevApp: quality/findbugs/findbugs_rules.xml
+   EDCI: quality/findbugs/findbugs_rules.xml
+
+BrevApp: quality/pmd/pmd_rules.xml
+   EDCI: quality/pmd/pmd_rules.xml
+
+BrevApp: ci/JenkinsfileDockerCI
+   EDCI: ci/JenkinsfileDockerCI
+
+BrevApp: external-libs/eui-angular2-servlet-1.0.0.jar
+   EDCI: external-libs/eui-angular2-servlet-1.0.0.jar
+
+BrevApp: external-libs/ecas-weblogic-12.2.1-authprovider-4.26.3.jar
+   EDCI: external-libs/ecas-weblogic-12.2.1-authprovider-4.26.3.jar
+

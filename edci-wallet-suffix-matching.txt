@@ -1,0 +1,1985 @@
+🎯 Matching Paths (Suffix-Based):
+
+BrevApp: licence-EUPL 1.2-brightgreen.svg
+   EDCI: licence-EUPL 1.2-brightgreen.svg
+
+BrevApp: Dockerfile
+   EDCI: Dockerfile
+
+BrevApp: README.docker.md
+   EDCI: README.docker.md
+
+BrevApp: wallet_tree.txt
+   EDCI: wallet_tree.txt
+
+BrevApp: pom.xml
+   EDCI: pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-wallet-service/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-wallet-common/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-wallet-web/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-wallet-persistence/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-wallet-web-rest-swagger/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-wallet-web-swagger-ui/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-wallet-web-rest/pom.xml
+
+BrevApp: README.md
+   EDCI: README.md
+
+BrevApp: README.md
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/README.md
+
+BrevApp: package.json
+   EDCI: package.json
+
+BrevApp: package.json
+   EDCI: edci-wallet-web/src/main/angular/package.json
+
+BrevApp: maven.settings.template.xml
+   EDCI: maven.settings.template.xml
+
+BrevApp: edci-wallet-service/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-wallet-service/pom.xml
+   EDCI: edci-wallet-service/pom.xml
+
+BrevApp: edci-wallet-service/.gitignore
+   EDCI: edci-wallet-service/.gitignore
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_credential_VP.xml
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_credential_VP.xml
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_template.properties
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_template.properties
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_template_en.properties
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_template_en.properties
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_credential.xml
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_credential.xml
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_template_es.properties
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_template_es.properties
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_template.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/verifiable_presentation_template.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/entitlement_tab.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/entitlement_tab.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/activity_tab.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/activity_tab.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/owner_tab.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/owner_tab.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/issuers_tab.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/issuers_tab.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/sub_credential_tab.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/sub_credential_tab.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/organization_tab.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/organization_tab.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/achievement_tab.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/achievement_tab.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/verification_tab.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/verification_tab.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/assessment_tab.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/assessment_tab.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/address_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/address_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/location_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/location_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/result_distribution_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/result_distribution_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/verification_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/verification_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/specifiedBy_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/specifiedBy_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/learning_outcome_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/learning_outcome_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/scoring_scheme_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/scoring_scheme_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/link_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/link_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/shortened_grading_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/shortened_grading_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/result_category_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/result_category_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/media_object_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/media_object_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/note_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/note_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/qualification_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/qualification_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/identifier_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/identifier_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/contact_point_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/contact_point_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/more_information_field.html
+   EDCI: edci-wallet-service/src/test/resources/verifiablePresentation/in/tabs/fields/more_information_field.html
+
+BrevApp: edci-wallet-service/src/test/resources/verification/sample-orgAccreditation-input.xml
+   EDCI: edci-wallet-service/src/test/resources/verification/sample-orgAccreditation-input.xml
+
+BrevApp: edci-wallet-service/src/test/resources/verification/sample-qfAccreditation-input.xml
+   EDCI: edci-wallet-service/src/test/resources/verification/sample-qfAccreditation-input.xml
+
+BrevApp: edci-wallet-service/src/test/resources/signCredential/verif_present_xml_example.xml
+   EDCI: edci-wallet-service/src/test/resources/signCredential/verif_present_xml_example.xml
+
+BrevApp: edci-wallet-service/src/test/resources/signCredential/np_qcorp_tarj_521_730_hw_kusu_valido.p12
+   EDCI: edci-wallet-service/src/test/resources/signCredential/np_qcorp_tarj_521_730_hw_kusu_valido.p12
+
+BrevApp: edci-wallet-service/src/test/resources/signCredential/europass_credential_xml_example.xml
+   EDCI: edci-wallet-service/src/test/resources/signCredential/europass_credential_xml_example.xml
+
+BrevApp: edci-wallet-service/src/test/resources/signCredential/hello-world.pdf
+   EDCI: edci-wallet-service/src/test/resources/signCredential/hello-world.pdf
+
+BrevApp: edci-wallet-service/src/test/resources/signCredential/pin_p12_valido.txt
+   EDCI: edci-wallet-service/src/test/resources/signCredential/pin_p12_valido.txt
+
+BrevApp: edci-wallet-service/src/test/resources/signCredential/dummyKeystore.p12
+   EDCI: edci-wallet-service/src/test/resources/signCredential/dummyKeystore.p12
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--en.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--en.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--sv.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--sv.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--el.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--el.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--pl.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--pl.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--ga.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--ga.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--fr.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--fr.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--sr.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--sr.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--mute.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--mute.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--tr.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--tr.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--lt.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--lt.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--lv.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--lv.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--nl.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--nl.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--no.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--no.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--mt.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--mt.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--cs.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--cs.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--bg.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--bg.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--mk.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--mk.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--ro.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--ro.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--sk.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--sk.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--is.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--is.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--hu.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--hu.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--fi.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--fi.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--da.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--da.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--es.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--es.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--it.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--it.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--de.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--de.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--sl.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--sl.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--et.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--et.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--hr.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--hr.svg
+
+BrevApp: edci-wallet-service/src/main/resources-unfiltered/logo/logo--pt.svg
+   EDCI: edci-wallet-service/src/main/resources-unfiltered/logo/logo--pt.svg
+
+BrevApp: edci-wallet-service/src/main/resources/verification/sample-orgAccreditation-input.xml
+   EDCI: edci-wallet-service/src/main/resources/verification/sample-orgAccreditation-input.xml
+
+BrevApp: edci-wallet-service/src/main/resources/verification/validationConstraint.xml
+   EDCI: edci-wallet-service/src/main/resources/verification/validationConstraint.xml
+
+BrevApp: edci-wallet-service/src/main/resources/verification/sample-qfAccreditation-input.xml
+   EDCI: edci-wallet-service/src/main/resources/verification/sample-qfAccreditation-input.xml
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/mapper/WalletMapper.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/mapper/WalletMapper.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/mapper/CredentialLocalizableInfoMapper.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/mapper/CredentialLocalizableInfoMapper.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/mapper/CycleAvoidingMappingContext.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/mapper/CycleAvoidingMappingContext.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/mapper/ShareLinkMapper.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/mapper/ShareLinkMapper.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/mapper/CredentialMapper.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/mapper/CredentialMapper.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/task/WalletTask.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/task/WalletTask.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/CredentialService.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/CredentialService.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/ShareLinkService.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/ShareLinkService.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/WalletCrudService.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/WalletCrudService.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/CredentialPDFService.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/CredentialPDFService.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/WalletService.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/WalletService.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/WalletConfigService.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/WalletConfigService.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/utils/CredentialStorageUtil.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/utils/CredentialStorageUtil.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/utils/CredentialLocalizableInfoUtil.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/utils/CredentialLocalizableInfoUtil.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/service/EDCIWalletAuthorizationService.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/service/EDCIWalletAuthorizationService.java
+
+BrevApp: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/liquibase/MigrateToFileSystemTask.java
+   EDCI: edci-wallet-service/src/main/java/eu/europa/ec/empl/edci/wallet/service/liquibase/MigrateToFileSystemTask.java
+
+BrevApp: edci-wallet-common/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-wallet-common/pom.xml
+   EDCI: edci-wallet-common/pom.xml
+
+BrevApp: edci-wallet-common/src/test/java/eu/europa/ec/empl/edci/wallet/common/ecas/UserHolderTest.java
+   EDCI: edci-wallet-common/src/test/java/eu/europa/ec/empl/edci/wallet/common/ecas/UserHolderTest.java
+
+BrevApp: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/constants/WalletEndpoint.java
+   EDCI: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/constants/WalletEndpoint.java
+
+BrevApp: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/constants/Parameter.java
+   EDCI: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/constants/Parameter.java
+
+BrevApp: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/constants/EDCIWalletMessages.java
+   EDCI: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/constants/EDCIWalletMessages.java
+
+BrevApp: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/constants/WalletConfig.java
+   EDCI: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/constants/WalletConfig.java
+
+BrevApp: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/constants/EDCIWalletConstants.java
+   EDCI: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/constants/EDCIWalletConstants.java
+
+BrevApp: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/model/CredentialLocalizableInfoDTO.java
+   EDCI: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/model/CredentialLocalizableInfoDTO.java
+
+BrevApp: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/model/EuropassDiplomaDTO.java
+   EDCI: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/model/EuropassDiplomaDTO.java
+
+BrevApp: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/model/WalletDTO.java
+   EDCI: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/model/WalletDTO.java
+
+BrevApp: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/model/CredentialDTO.java
+   EDCI: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/model/CredentialDTO.java
+
+BrevApp: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/model/ShareLinkDTO.java
+   EDCI: edci-wallet-common/src/main/java/eu/europa/ec/empl/edci/wallet/common/model/ShareLinkDTO.java
+
+BrevApp: edci-wallet-web/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-wallet-web/pom.xml
+   EDCI: edci-wallet-web/pom.xml
+
+BrevApp: edci-wallet-web/sonar-project.properties
+   EDCI: edci-wallet-web/sonar-project.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_no.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_no.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_de.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_de.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_bg.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_bg.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_sr.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_sr.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_sl.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_sl.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_el.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_el.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_fr.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_fr.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_mt.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_mt.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_sk.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_sk.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_pl.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_pl.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_en.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_en.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_fi.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_fi.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_ro.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_ro.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_pt.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_pt.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_es.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_es.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_da.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_da.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_hr.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_hr.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_sv.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_sv.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_is.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_is.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_lv.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_lv.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_it.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_it.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_cs.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_cs.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_tr.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_tr.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_hu.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_hu.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_ga.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_ga.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_nl.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_nl.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_et.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_et.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_mk.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_mk.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages_lt.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages_lt.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/messages.properties
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/messages.properties
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_pt.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_pt.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_sk.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_sk.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_en.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_en.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_bg.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_bg.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_ro.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_ro.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_sr.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_sr.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_hr.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_hr.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_el.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_el.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_it.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_it.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_pl.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_pl.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_de.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_de.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_fr.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_fr.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_mt.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_mt.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_fi.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_fi.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_ga.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_ga.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_et.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_et.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_nl.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_nl.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_es.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_es.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_sv.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_sv.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_lv.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_lv.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_no.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_no.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_da.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_da.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_tr.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_tr.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_sl.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_sl.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_mk.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_mk.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_lt.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_lt.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_is.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_is.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_hu.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_hu.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_cs.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_cs.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_sv.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_sv.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_es.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_es.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_nl.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_nl.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_cs.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_cs.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_hu.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_hu.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_is.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_is.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_lt.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_lt.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_mk.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_mk.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_sl.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_sl.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_tr.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_tr.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_da.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_da.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_lv.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_lv.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_no.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_no.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_it.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_it.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_el.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_el.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_hr.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_hr.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_sr.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_sr.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_ro.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_ro.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_bg.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_bg.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_en.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_en.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_sk.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_sk.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_pt.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_pt.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_et.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_et.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_ga.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_ga.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_fi.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_fi.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_mt.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_mt.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_fr.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/temp_credential_mail_fr.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_de.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_de.html
+
+BrevApp: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_pl.html
+   EDCI: edci-wallet-web/src/main/resources-unfiltered/templates/mail/created_credential_mail_pl.html
+
+BrevApp: edci-wallet-web/src/main/resources/log4j2.xml
+   EDCI: edci-wallet-web/src/main/resources/log4j2.xml
+
+BrevApp: edci-wallet-web/src/main/resources/hsql-db-init.sql
+   EDCI: edci-wallet-web/src/main/resources/hsql-db-init.sql
+
+BrevApp: edci-wallet-web/src/main/resources/log4j.xml.ecas
+   EDCI: edci-wallet-web/src/main/resources/log4j.xml.ecas
+
+BrevApp: edci-wallet-web/src/main/resources/ecas-config-edci-wallet.xml
+   EDCI: edci-wallet-web/src/main/resources/ecas-config-edci-wallet.xml
+
+BrevApp: edci-wallet-web/src/main/resources/custom-swagger-templates/api.service.mustache
+   EDCI: edci-wallet-web/src/main/resources/custom-swagger-templates/api.service.mustache
+
+BrevApp: edci-wallet-web/src/main/resources/custom-swagger-templates/api.module.mustache
+   EDCI: edci-wallet-web/src/main/resources/custom-swagger-templates/api.module.mustache
+
+BrevApp: edci-wallet-web/src/main/resources/config/docker/walletStart.sh
+   EDCI: edci-wallet-web/src/main/resources/config/docker/walletStart.sh
+
+BrevApp: edci-wallet-web/src/main/resources/config/docker/tomcat/catalina.properties
+   EDCI: edci-wallet-web/src/main/resources/config/docker/tomcat/catalina.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/docker/tomcat/server.xml
+   EDCI: edci-wallet-web/src/main/resources/config/docker/tomcat/server.xml
+
+BrevApp: edci-wallet-web/src/main/resources/config/cache/ehcache.xml
+   EDCI: edci-wallet-web/src/main/resources/config/cache/ehcache.xml
+
+BrevApp: edci-wallet-web/src/main/resources/config/security/security_dev.properties
+   EDCI: edci-wallet-web/src/main/resources/config/security/security_dev.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/security/security_default.properties
+   EDCI: edci-wallet-web/src/main/resources/config/security/security_default.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/security/security_prod.properties
+   EDCI: edci-wallet-web/src/main/resources/config/security/security_prod.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/security/security_docker.properties
+   EDCI: edci-wallet-web/src/main/resources/config/security/security_docker.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/ext/proxy/proxy.properties
+   EDCI: edci-wallet-web/src/main/resources/config/ext/proxy/proxy.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/ext/shacl/shacl.properties
+   EDCI: edci-wallet-web/src/main/resources/config/ext/shacl/shacl.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/ext/conf/wallet.properties
+   EDCI: edci-wallet-web/src/main/resources/config/ext/conf/wallet.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/ext/conf/wallet_front.properties
+   EDCI: edci-wallet-web/src/main/resources/config/ext/conf/wallet_front.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/ext/conf/security.properties
+   EDCI: edci-wallet-web/src/main/resources/config/ext/conf/security.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/wallet/wallet_docker.properties
+   EDCI: edci-wallet-web/src/main/resources/config/wallet/wallet_docker.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/wallet/wallet_prod.properties
+   EDCI: edci-wallet-web/src/main/resources/config/wallet/wallet_prod.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/wallet/wallet_dev.properties
+   EDCI: edci-wallet-web/src/main/resources/config/wallet/wallet_dev.properties
+
+BrevApp: edci-wallet-web/src/main/resources/config/wallet/wallet_default.properties
+   EDCI: edci-wallet-web/src/main/resources/config/wallet/wallet_default.properties
+
+BrevApp: edci-wallet-web/src/main/webapp/index.jsp
+   EDCI: edci-wallet-web/src/main/webapp/index.jsp
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/applicationContext.xml
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/applicationContext.xml
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/spring-REST-servlet.xml
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/spring-REST-servlet.xml
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/web.xml
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/web.xml
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/verifiable_diploma_template.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/verifiable_diploma_template.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/verifiable_presentation_template.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/verifiable_presentation_template.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/entitlement_tab.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/entitlement_tab.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/activity_tab.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/activity_tab.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/owner_tab.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/owner_tab.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/issuers_tab.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/issuers_tab.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/sub_credential_tab.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/sub_credential_tab.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/organization_tab.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/organization_tab.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/achievement_tab.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/achievement_tab.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/verification_tab.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/verification_tab.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/assessment_tab.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/assessment_tab.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/address_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/address_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/location_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/location_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/result_distribution_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/result_distribution_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/verification_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/verification_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/specifiedBy_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/specifiedBy_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/learning_outcome_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/learning_outcome_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/scoring_scheme_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/scoring_scheme_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/link_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/link_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/shortened_grading_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/shortened_grading_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/result_category_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/result_category_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/media_object_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/media_object_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/note_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/note_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/qualification_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/qualification_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/identifier_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/identifier_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/contact_point_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/contact_point_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/more_information_field.html
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/pdf/templates/tabs/fields/more_information_field.html
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/keystores/np_qcorp_tarj_521_730_hw_kusu_valido.p12
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/keystores/np_qcorp_tarj_521_730_hw_kusu_valido.p12
+
+BrevApp: edci-wallet-web/src/main/webapp/WEB-INF/keystores/dummyKeystore.p12
+   EDCI: edci-wallet-web/src/main/webapp/WEB-INF/keystores/dummyKeystore.p12
+
+BrevApp: edci-wallet-web/src/main/angular/tsconfig-ci.json
+   EDCI: edci-wallet-web/src/main/angular/tsconfig-ci.json
+
+BrevApp: edci-wallet-web/src/main/angular/.euirc.json
+   EDCI: edci-wallet-web/src/main/angular/.euirc.json
+
+BrevApp: edci-wallet-web/src/main/angular/webpack.extra.js
+   EDCI: edci-wallet-web/src/main/angular/webpack.extra.js
+
+BrevApp: edci-wallet-web/src/main/angular/.editorconfig
+   EDCI: edci-wallet-web/src/main/angular/.editorconfig
+
+BrevApp: edci-wallet-web/src/main/angular/angular.json
+   EDCI: edci-wallet-web/src/main/angular/angular.json
+
+BrevApp: edci-wallet-web/src/main/angular/.stylelintrc
+   EDCI: edci-wallet-web/src/main/angular/.stylelintrc
+
+BrevApp: edci-wallet-web/src/main/angular/.gitignore
+   EDCI: edci-wallet-web/src/main/angular/.gitignore
+
+BrevApp: edci-wallet-web/src/main/angular/package.json
+   EDCI: package.json
+
+BrevApp: edci-wallet-web/src/main/angular/package.json
+   EDCI: edci-wallet-web/src/main/angular/package.json
+
+BrevApp: edci-wallet-web/src/main/angular/tslint.json
+   EDCI: edci-wallet-web/src/main/angular/tslint.json
+
+BrevApp: edci-wallet-web/src/main/angular/tsconfig.json
+   EDCI: edci-wallet-web/src/main/angular/tsconfig.json
+
+BrevApp: edci-wallet-web/src/main/angular/proxy-mock.conf.json
+   EDCI: edci-wallet-web/src/main/angular/proxy-mock.conf.json
+
+BrevApp: edci-wallet-web/src/main/angular/proxy.conf.json
+   EDCI: edci-wallet-web/src/main/angular/proxy.conf.json
+
+BrevApp: edci-wallet-web/src/main/angular/dist/.gitkeep
+   EDCI: edci-wallet-web/src/main/angular/dist/.gitkeep
+
+BrevApp: edci-wallet-web/src/main/angular/mock/mean/server.js
+   EDCI: edci-wallet-web/src/main/angular/mock/mean/server.js
+
+BrevApp: edci-wallet-web/src/main/angular/mock/mean/app/models/user.js
+   EDCI: edci-wallet-web/src/main/angular/mock/mean/app/models/user.js
+
+BrevApp: edci-wallet-web/src/main/angular/mock/mean/app/routes/user_routes.js
+   EDCI: edci-wallet-web/src/main/angular/mock/mean/app/routes/user_routes.js
+
+BrevApp: edci-wallet-web/src/main/angular/mock/mean/app/routes/index.js
+   EDCI: edci-wallet-web/src/main/angular/mock/mean/app/routes/index.js
+
+BrevApp: edci-wallet-web/src/main/angular/mock/mean/db/db.json
+   EDCI: edci-wallet-web/src/main/angular/mock/mean/db/db.json
+
+BrevApp: edci-wallet-web/src/main/angular/mock/json/server.js
+   EDCI: edci-wallet-web/src/main/angular/mock/json/server.js
+
+BrevApp: edci-wallet-web/src/main/angular/mock/json/lowdb.js
+   EDCI: edci-wallet-web/src/main/angular/mock/json/lowdb.js
+
+BrevApp: edci-wallet-web/src/main/angular/mock/json/routes.json
+   EDCI: edci-wallet-web/src/main/angular/mock/json/routes.json
+
+BrevApp: edci-wallet-web/src/main/angular/mock/json/core/user.js
+   EDCI: edci-wallet-web/src/main/angular/mock/json/core/user.js
+
+BrevApp: edci-wallet-web/src/main/angular/mock/json/middlewares/sse.js
+   EDCI: edci-wallet-web/src/main/angular/mock/json/middlewares/sse.js
+
+BrevApp: edci-wallet-web/src/main/angular/mock/json/middlewares/errors.js
+   EDCI: edci-wallet-web/src/main/angular/mock/json/middlewares/errors.js
+
+BrevApp: edci-wallet-web/src/main/angular/mock/json/middlewares/delay.js
+   EDCI: edci-wallet-web/src/main/angular/mock/json/middlewares/delay.js
+
+BrevApp: edci-wallet-web/src/main/angular/e2e/tsconfig.e2e.json
+   EDCI: edci-wallet-web/src/main/angular/e2e/tsconfig.e2e.json
+
+BrevApp: edci-wallet-web/src/main/angular/e2e/src/app.e2e-spec.ts
+   EDCI: edci-wallet-web/src/main/angular/e2e/src/app.e2e-spec.ts
+
+BrevApp: edci-wallet-web/src/main/angular/e2e/src/app.po.ts
+   EDCI: edci-wallet-web/src/main/angular/e2e/src/app.po.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/browserslist
+   EDCI: edci-wallet-web/src/main/angular/src/browserslist
+
+BrevApp: edci-wallet-web/src/main/angular/src/favicon.ico
+   EDCI: edci-wallet-web/src/main/angular/src/favicon.ico
+
+BrevApp: edci-wallet-web/src/main/angular/src/index.html
+   EDCI: edci-wallet-web/src/main/angular/src/index.html
+
+BrevApp: edci-wallet-web/src/main/angular/src/main.ts
+   EDCI: edci-wallet-web/src/main/angular/src/main.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/tsconfig.app.json
+   EDCI: edci-wallet-web/src/main/angular/src/tsconfig.app.json
+
+BrevApp: edci-wallet-web/src/main/angular/src/styles.scss
+   EDCI: edci-wallet-web/src/main/angular/src/styles.scss
+
+BrevApp: edci-wallet-web/src/main/angular/src/test.ts
+   EDCI: edci-wallet-web/src/main/angular/src/test.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/tslint.json
+   EDCI: edci-wallet-web/src/main/angular/src/tslint.json
+
+BrevApp: edci-wallet-web/src/main/angular/src/karma.conf.js
+   EDCI: edci-wallet-web/src/main/angular/src/karma.conf.js
+
+BrevApp: edci-wallet-web/src/main/angular/src/polyfills.ts
+   EDCI: edci-wallet-web/src/main/angular/src/polyfills.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/tsconfig.spec.json
+   EDCI: edci-wallet-web/src/main/angular/src/tsconfig.spec.json
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/app.component.html
+   EDCI: edci-wallet-web/src/main/angular/src/app/app.component.html
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/app-routing.module.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/app-routing.module.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/app.component.spec.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/app.component.spec.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/app.module.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/app.module.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/app.component.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/app.component.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/core/operators.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/core/operators.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/core/core.module.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/core/core.module.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/core/components/.gitkeep
+   EDCI: edci-wallet-web/src/main/angular/src/app/core/components/.gitkeep
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/core/reducers/index.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/core/reducers/index.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/home/home.component.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/home/home.component.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/home/home.module.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/home/home.module.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/home/home-routing.module.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/home/home-routing.module.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/home/home.component.html
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/home/home.component.html
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/home/home.component.spec.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/home/home.component.spec.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module2/module2.component.spec.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module2/module2.component.spec.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module2/module2-routing.module.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module2/module2-routing.module.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module2/module2.component.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module2/module2.component.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module2/module2.module.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module2/module2.module.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module2/module2.component.html
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module2/module2.component.html
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module1/module1.module.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module1/module1.module.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module1/module1-routing.module.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module1/module1-routing.module.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module1/module1.component.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module1/module1.component.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module1/module1.component.spec.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module1/module1.component.spec.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module1/module1.component.html
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module1/module1.component.html
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module1/components/page2/page2.component.html
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module1/components/page2/page2.component.html
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module1/components/page2/page2.component.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module1/components/page2/page2.component.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module1/components/page2/page2.component.spec.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module1/components/page2/page2.component.spec.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module1/components/page1/page1.component.spec.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module1/components/page1/page1.component.spec.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module1/components/page1/page1.component.html
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module1/components/page1/page1.component.html
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/features/module1/components/page1/page1.component.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/features/module1/components/page1/page1.component.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/shared.module.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/shared.module.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/.swagger-codegen-ignore
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/.swagger-codegen-ignore
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api.module.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api.module.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/encoder.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/encoder.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/README.md
+   EDCI: README.md
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/README.md
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/README.md
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/git_push.sh
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/git_push.sh
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/.gitignore
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/.gitignore
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/variables.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/variables.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/index.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/index.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/configuration.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/configuration.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/.swagger-codegen/VERSION
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/.swagger-codegen/VERSION
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/personDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/personDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningOpportunityDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningOpportunityDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlBasicSignature.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlBasicSignature.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/priceDetailsDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/priceDetailsDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/shareLinkInfoView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/shareLinkInfoView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/interactiveWebResourceDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/interactiveWebResourceDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/revocationWrapper.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/revocationWrapper.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/statusView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/statusView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/score.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/score.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/legalIdentifier.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/legalIdentifier.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlFC.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlFC.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/displayParamsDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/displayParamsDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/awardingProcessDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/awardingProcessDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlDigestMatcher.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlDigestMatcher.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/contactPoint.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/contactPoint.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/temporalUnit.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/temporalUnit.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/europassCredentialVerificationView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/europassCredentialVerificationView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/credentialUploadResponseView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/credentialUploadResponseView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/note.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/note.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSAV.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSAV.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/imageObject.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/imageObject.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/identifier.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/identifier.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningAchievementDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningAchievementDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/organizationDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/organizationDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlCertificatePolicy.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlCertificatePolicy.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlOID.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlOID.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningSpecificationDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningSpecificationDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/europassCredentialIssuerDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/europassCredentialIssuerDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/trustedServiceWrapper.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/trustedServiceWrapper.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/webDocumentDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/webDocumentDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/agentDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/agentDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSignatureLevel.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSignatureLevel.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/entitlementDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/entitlementDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/resultDistributionDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/resultDistributionDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/apiErrorMessage.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/apiErrorMessage.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/mailboxDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/mailboxDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/certificateWrapper.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/certificateWrapper.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTLAnalysis.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTLAnalysis.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/timestampWrapper.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/timestampWrapper.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/pagedResourcesShareLinkInfoView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/pagedResourcesShareLinkInfoView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/locationDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/locationDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlBasicBuildingBlocks.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlBasicBuildingBlocks.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/reports.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/reports.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlConstraint.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlConstraint.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlManifestFile.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlManifestFile.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/displayParametersDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/displayParametersDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/localizedItem.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/localizedItem.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/pagedResources.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/pagedResources.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/qualificationAssociationTypeDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/qualificationAssociationTypeDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/text.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/text.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationCertificateQualification.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationCertificateQualification.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningActivitySpecificationDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningActivitySpecificationDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlContainerInfo.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlContainerInfo.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/awardingOpportunityDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/awardingOpportunityDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/qualificationDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/qualificationDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlVCI.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlVCI.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/credentialListView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/credentialListView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTimestampedObject.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTimestampedObject.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationProcessArchivalData.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationProcessArchivalData.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/verificationCheckView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/verificationCheckView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSignatureScope.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSignatureScope.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlCertificate.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlCertificate.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/content.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/content.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/nQFQualificationAwardDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/nQFQualificationAwardDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTrustedServiceProvider.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTrustedServiceProvider.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/addressDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/addressDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/nQFQualificationDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/nQFQualificationDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/period.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/period.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSimpleReport.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSimpleReport.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlISC.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlISC.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/mediaObject.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/mediaObject.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/periodType.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/periodType.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlXCV.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlXCV.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationProcessTimestamps.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationProcessTimestamps.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlDistinguishedName.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlDistinguishedName.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/walletCreateResponseView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/walletCreateResponseView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlVTS.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlVTS.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSignature.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSignature.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlCV.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlCV.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/shortenedGradingDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/shortenedGradingDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/shareLinkResponseView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/shareLinkResponseView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/qADecisionDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/qADecisionDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTimestamp.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTimestamp.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationProcessLongTermData.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationProcessLongTermData.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/occupationAssociation.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/occupationAssociation.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/code.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/code.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/resource.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/resource.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/shareLinkView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/shareLinkView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/educationLevelAssociation.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/educationLevelAssociation.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTrustedList.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTrustedList.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/duration.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/duration.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/walletDeleteView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/walletDeleteView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/numericScore.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/numericScore.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlName.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlName.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/byteArrayResource.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/byteArrayResource.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/scoringSchemeDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/scoringSchemeDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/diagnosticData.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/diagnosticData.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSubXCV.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSubXCV.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/pageMetadata.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/pageMetadata.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSigningCertificate.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSigningCertificate.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlCertificateChain.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlCertificateChain.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/standard.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/standard.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSignatureProductionPlace.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlSignatureProductionPlace.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlRFC.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlRFC.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlCertifiedRole.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlCertifiedRole.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/entitlementSpecificationDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/entitlementSpecificationDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/walletCreateView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/walletCreateView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/organization.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/organization.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlRevocation.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlRevocation.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlDigestAlgoAndValue.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlDigestAlgoAndValue.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/credentialView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/credentialView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/models.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/models.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/educationSubjectAssociation.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/educationSubjectAssociation.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/detailedReport.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/detailedReport.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/textScore.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/textScore.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningOutcomeDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningOutcomeDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/inputStream.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/inputStream.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/assessmentSpecificationDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/assessmentSpecificationDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationProcessBasicSignatures.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationProcessBasicSignatures.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/escoOccupationAssociation.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/escoOccupationAssociation.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlPolicy.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlPolicy.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/europassCredentialDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/europassCredentialDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/simpleReport.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/simpleReport.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/phoneDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/phoneDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/amount.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/amount.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlPSV.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlPSV.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/signatureWrapper.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/signatureWrapper.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/gradeDetailsDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/gradeDetailsDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/credentialVerificationRequestView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/credentialVerificationRequestView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/proofDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/proofDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/credentialBaseView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/credentialBaseView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/escoSkillAssociationDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/escoSkillAssociationDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/qualificationAwardDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/qualificationAwardDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/resourceShareLinkInfoView.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/resourceShareLinkInfoView.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlChainItem.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlChainItem.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlStructuralValidation.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlStructuralValidation.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTrustedService.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlTrustedService.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationSignatureQualification.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlValidationSignatureQualification.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/durationFieldType.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/durationFieldType.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/achievementDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/achievementDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlConclusion.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlConclusion.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/accreditationDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/accreditationDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlPCV.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/xmlPCV.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/assessmentDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/assessmentDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/scoringScheme.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/scoringScheme.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningAwardDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningAwardDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/link.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/link.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/resultCategoryDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/resultCategoryDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningActivityDTO.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/model/learningActivityDTO.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v0credential.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v0credential.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v1credentials.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v1credentials.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v1Tests.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v1Tests.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v0sharelink.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v0sharelink.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v0Tests.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v0Tests.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/credentials.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/credentials.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v0wallet.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v0wallet.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/shareLinks.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/shareLinks.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/api.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/api.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/tests.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/tests.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v1wallets.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v1wallets.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/wallets.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/wallets.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v1sharelinks.service.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/swagger/api/v1sharelinks.service.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/app/shared/testing/router.mock.ts
+   EDCI: edci-wallet-web/src/main/angular/src/app/shared/testing/router.mock.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/config/modules.ts
+   EDCI: edci-wallet-web/src/main/angular/src/config/modules.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/config/global.ts
+   EDCI: edci-wallet-web/src/main/angular/src/config/global.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/config/index.ts
+   EDCI: edci-wallet-web/src/main/angular/src/config/index.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/environments/openid.local.json
+   EDCI: edci-wallet-web/src/main/angular/src/environments/openid.local.json
+
+BrevApp: edci-wallet-web/src/main/angular/src/environments/environment.prod.ts
+   EDCI: edci-wallet-web/src/main/angular/src/environments/environment.prod.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/environments/openid.dev.json
+   EDCI: edci-wallet-web/src/main/angular/src/environments/openid.dev.json
+
+BrevApp: edci-wallet-web/src/main/angular/src/environments/environment.dev.ts
+   EDCI: edci-wallet-web/src/main/angular/src/environments/environment.dev.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/environments/environment.ts
+   EDCI: edci-wallet-web/src/main/angular/src/environments/environment.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/environments/environment.local-openid.ts
+   EDCI: edci-wallet-web/src/main/angular/src/environments/environment.local-openid.ts
+
+BrevApp: edci-wallet-web/src/main/angular/src/environments/openid.prod.json
+   EDCI: edci-wallet-web/src/main/angular/src/environments/openid.prod.json
+
+BrevApp: edci-wallet-web/src/main/angular/src/assets/openid-login-config.json
+   EDCI: edci-wallet-web/src/main/angular/src/assets/openid-login-config.json
+
+BrevApp: edci-wallet-web/src/main/angular/src/assets/oidc-client.min.js
+   EDCI: edci-wallet-web/src/main/angular/src/assets/oidc-client.min.js
+
+BrevApp: edci-wallet-web/src/main/angular/src/assets/jsrsasign-all-min.js
+   EDCI: edci-wallet-web/src/main/angular/src/assets/jsrsasign-all-min.js
+
+BrevApp: edci-wallet-web/src/main/angular/src/assets/.gitkeep
+   EDCI: edci-wallet-web/src/main/angular/src/assets/.gitkeep
+
+BrevApp: edci-wallet-web/src/main/angular/src/assets/openid-login.js
+   EDCI: edci-wallet-web/src/main/angular/src/assets/openid-login.js
+
+BrevApp: edci-wallet-web/src/main/angular/src/assets/i18n/en.json
+   EDCI: edci-wallet-web/src/main/angular/src/assets/i18n/en.json
+
+BrevApp: edci-wallet-web/src/main/angular/src/assets/i18n/fr.json
+   EDCI: edci-wallet-web/src/main/angular/src/assets/i18n/fr.json
+
+BrevApp: edci-wallet-persistence/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-wallet-persistence/pom.xml
+   EDCI: edci-wallet-persistence/pom.xml
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-master.xml
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-master.xml
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-create-version-table.xml
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-create-version-table.xml
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-update-version.xml
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-update-version.xml
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.8.xml
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.8.xml
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.4.xml
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.4.xml
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.5.xml
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.5.xml
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.7.xml
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.7.xml
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.6.xml
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.6.xml
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.3.xml
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/liquibase-changelog-1.3.xml
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/dbchangelog-3.8.xsd
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/dbchangelog-3.8.xsd
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/v1_8/01_remove_inter_localizable_table.sql
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/v1_8/01_remove_inter_localizable_table.sql
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/v1_3/sampleA.sql
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/v1_3/sampleA.sql
+
+BrevApp: edci-wallet-persistence/src/main/resources/changeLog/v1_3/sampleB.sql
+   EDCI: edci-wallet-persistence/src/main/resources/changeLog/v1_3/sampleB.sql
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/repository/WalletRepository.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/repository/WalletRepository.java
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/repository/CredentialLocalizableInfoRepository.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/repository/CredentialLocalizableInfoRepository.java
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/repository/ShareLinkRepository.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/repository/ShareLinkRepository.java
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/repository/CredentialRepository.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/repository/CredentialRepository.java
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/repository/ConversionLogRepository.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/repository/ConversionLogRepository.java
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/converter/StringCollectionConverter.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/converter/StringCollectionConverter.java
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/entity/ShareLinkDAO.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/entity/ShareLinkDAO.java
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/entity/CredentialDAO.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/entity/CredentialDAO.java
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/entity/ConversionLogDAO.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/entity/ConversionLogDAO.java
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/entity/WalletDAO.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/entity/WalletDAO.java
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/entity/CredentialLocalizableInfoDAO.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/entity/CredentialLocalizableInfoDAO.java
+
+BrevApp: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/liquibase/LiquibaseConfiguration.java
+   EDCI: edci-wallet-persistence/src/main/java/eu/europa/ec/empl/edci/wallet/liquibase/LiquibaseConfiguration.java
+
+BrevApp: edci-wallet-web-rest-swagger/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-wallet-web-rest-swagger/pom.xml
+   EDCI: edci-wallet-web-rest-swagger/pom.xml
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/META-INF/services/io.swagger.codegen.CodegenConfig
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/META-INF/services/io.swagger.codegen.CodegenConfig
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/classType.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/classType.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/licenseInfo.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/licenseInfo.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/configuration.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/configuration.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/model.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/model.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/apis.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/apis.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/index.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/index.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/tsconfig.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/tsconfig.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/package.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/package.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/README.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/README.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/variables.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/variables.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/api.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/api.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/typings.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/typings.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/models.mustache
+   EDCI: edci-wallet-web-rest-swagger/src/main/resources/typescript-codegen/models.mustache
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/java/eu/europa/ec/empl/edci/wallet/codegen/TypescriptClientCodegen.java
+   EDCI: edci-wallet-web-rest-swagger/src/main/java/eu/europa/ec/empl/edci/wallet/codegen/TypescriptClientCodegen.java
+
+BrevApp: edci-wallet-web-rest-swagger/src/main/java/eu/europa/ec/empl/edci/wallet/codegen/AbstractTypescriptClientCodegen.java
+   EDCI: edci-wallet-web-rest-swagger/src/main/java/eu/europa/ec/empl/edci/wallet/codegen/AbstractTypescriptClientCodegen.java
+
+BrevApp: edci-wallet-web-swagger-ui/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-wallet-web-swagger-ui/pom.xml
+   EDCI: edci-wallet-web-swagger-ui/pom.xml
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/swagger-ui.min.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/swagger-ui.min.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/index.html
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/index.html
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/swagger-ui.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/swagger-ui.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/o2c.html
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/o2c.html
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/wallet_swaggerUI.zip
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/wallet_swaggerUI.zip
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/css/typography.css
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/css/typography.css
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/css/reset.css
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/css/reset.css
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/css/style.css
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/css/style.css
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/css/print.css
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/css/print.css
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/css/screen.css
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/css/screen.css
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/images/favicon-16x16.png
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/images/favicon-16x16.png
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/images/favicon.ico
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/images/favicon.ico
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/images/pet_store_api.png
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/images/pet_store_api.png
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/images/explorer_icons.png
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/images/explorer_icons.png
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/images/collapse.gif
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/images/collapse.gif
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/images/expand.gif
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/images/expand.gif
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/images/logo_small.png
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/images/logo_small.png
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/images/throbber.gif
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/images/throbber.gif
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/images/wordnik_api.png
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/images/wordnik_api.png
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/images/favicon-32x32.png
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/images/favicon-32x32.png
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/pt.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/pt.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/pl.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/pl.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/el.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/el.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/ru.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/ru.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/ja.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/ja.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/geo.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/geo.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/ca.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/ca.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/translator.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/translator.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/zh-cn.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/zh-cn.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/en.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/en.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/ko-kr.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/ko-kr.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/fr.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/fr.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/it.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/it.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/es.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/es.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lang/tr.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lang/tr.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/WEB-INF/web.xml
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/WEB-INF/web.xml
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/handlebars-4.0.5.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/handlebars-4.0.5.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/object-assign-pollyfill.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/object-assign-pollyfill.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/backbone-min.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/backbone-min.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/jquery.wiggle.min.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/jquery.wiggle.min.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/jquery.slideto.min.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/jquery.slideto.min.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/highlight.9.1.0.pack_extended.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/highlight.9.1.0.pack_extended.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/sanitize-html.min.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/sanitize-html.min.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/js-yaml.min.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/js-yaml.min.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/lodash.min.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/lodash.min.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/highlight.9.1.0.pack.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/highlight.9.1.0.pack.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/swagger-oauth.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/swagger-oauth.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/marked.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/marked.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/es5-shim.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/es5-shim.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/jquery.ba-bbq.min.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/jquery.ba-bbq.min.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/jquery-1.8.0.min.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/jquery-1.8.0.min.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/lib/jsoneditor.min.js
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/lib/jsoneditor.min.js
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/fonts/DroidSans.ttf
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/fonts/DroidSans.ttf
+
+BrevApp: edci-wallet-web-swagger-ui/src/main/webapp/fonts/DroidSans-Bold.ttf
+   EDCI: edci-wallet-web-swagger-ui/src/main/webapp/fonts/DroidSans-Bold.ttf
+
+BrevApp: edci-wallet-web-rest/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-wallet-web-rest/pom.xml
+   EDCI: edci-wallet-web-rest/pom.xml
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/mapper/WalletRestMapper.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/mapper/WalletRestMapper.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/mapper/ShareLinkRestMapper.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/mapper/ShareLinkRestMapper.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/mapper/CredentialRestMapper.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/mapper/CredentialRestMapper.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletResponseView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletResponseView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/CredentialBaseView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/CredentialBaseView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateResponseView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateResponseView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateBulkResponseView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateBulkResponseView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/EuropassDiplomaView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/EuropassDiplomaView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/CredentialListView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/CredentialListView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/ShareLinkView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/ShareLinkView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateBulkView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateBulkView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/CredentialUploadView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/CredentialUploadView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateBulkResponseElemView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateBulkResponseElemView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/CredentialView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/CredentialView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateBulkElemView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletCreateBulkElemView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/ShareLinkInfoView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/ShareLinkInfoView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletModifyView.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/model/WalletModifyView.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/exception/RestException.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/exception/RestException.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/exception/ExceptionResponse.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/exception/ExceptionResponse.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/exception/ExceptionWalletControllerAdvice.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/exception/ExceptionWalletControllerAdvice.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/ShareLinkCRUDResource.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/ShareLinkCRUDResource.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/ShareLinkDerivedResource.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/ShareLinkDerivedResource.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/ShareLinkVerificationResource.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/ShareLinkVerificationResource.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/CredentialCrudResource.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/CredentialCrudResource.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/CredentialVerificationResource.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/CredentialVerificationResource.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/CredentialDerivedResource.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/CredentialDerivedResource.java
+
+BrevApp: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/WalletResource.java
+   EDCI: edci-wallet-web-rest/src/main/java/eu/europa/ec/empl/edci/wallet/web/rest/v1/WalletResource.java
+

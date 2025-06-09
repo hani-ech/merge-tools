@@ -1,0 +1,179 @@
+🎯 Matching Paths (Suffix-Based):
+
+BrevApp: licence-EUPL 1.2-brightgreen.svg
+   EDCI: licence-EUPL 1.2-brightgreen.svg
+
+BrevApp: pom.xml
+   EDCI: pom.xml
+
+BrevApp: README.md
+   EDCI: README.md
+
+BrevApp: configuration/properties/example/eseal.properties
+   EDCI: configuration/properties/example/eseal.properties
+
+BrevApp: src/test/resources/seal/QSEALC.pfx
+   EDCI: src/test/resources/seal/QSEALC.pfx
+
+BrevApp: src/test/resources/creds/json_to_seal-signed-jades-baseline-lta.json
+   EDCI: src/test/resources/creds/json_to_seal-signed-jades-baseline-lta.json
+
+BrevApp: src/test/resources/creds/json_to_seal.json
+   EDCI: src/test/resources/creds/json_to_seal.json
+
+BrevApp: src/test/resources/creds/json_sealed_test_output.json
+   EDCI: src/test/resources/creds/json_sealed_test_output.json
+
+BrevApp: src/test/resources/creds/json_sealed_advanced.json
+   EDCI: src/test/resources/creds/json_sealed_advanced.json
+
+BrevApp: src/test/java/integration/eu/europa/ec/empl/base/AbstractIntegrationBaseTest.java
+   EDCI: src/test/java/integration/eu/europa/ec/empl/base/AbstractIntegrationBaseTest.java
+
+BrevApp: src/test/java/eu/europa/ec/empl/edci/dss/service/DSSEDCICertificateServiceTest.java
+   EDCI: src/test/java/eu/europa/ec/empl/edci/dss/service/DSSEDCICertificateServiceTest.java
+
+BrevApp: src/test/java/eu/europa/ec/empl/base/AbstractUnitBaseTest.java
+   EDCI: src/test/java/eu/europa/ec/empl/base/AbstractUnitBaseTest.java
+
+BrevApp: src/test/java/eu/europa/ec/empl/base/TestUtilities.java
+   EDCI: src/test/java/eu/europa/ec/empl/base/TestUtilities.java
+
+BrevApp: src/main/resources/config/eseal/eseal_dev.properties
+   EDCI: src/main/resources/config/eseal/eseal_dev.properties
+
+BrevApp: src/main/resources/config/eseal/eseal_default.properties
+   EDCI: src/main/resources/config/eseal/eseal_default.properties
+
+BrevApp: src/main/resources/config/eseal/eseal_prod.properties
+   EDCI: src/main/resources/config/eseal/eseal_prod.properties
+
+BrevApp: src/main/resources/config/eseal/eseal_docker.properties
+   EDCI: src/main/resources/config/eseal/eseal_docker.properties
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/util/DSSSignatureUtils.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/util/DSSSignatureUtils.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/config/EdciJdbcCacheCRLSource.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/config/EdciJdbcCacheCRLSource.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/config/ESealCoreConfigService.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/config/ESealCoreConfigService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/config/SchedulingConfig.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/config/SchedulingConfig.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/constants/ErrorCode.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/constants/ErrorCode.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/constants/ESealConfig.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/constants/ESealConfig.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/constants/ESealMessageKeys.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/constants/ESealMessageKeys.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/constants/ESealConstants.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/constants/ESealConstants.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/proxy/EDCIProxyConfig.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/proxy/EDCIProxyConfig.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/proxy/EDCIProxyProperties.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/proxy/EDCIProxyProperties.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/DSSTimestamp.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/DSSTimestamp.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/DSSSignatureDocumentForm.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/DSSSignatureDocumentForm.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/AbstractSignatureForm.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/AbstractSignatureForm.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureParametersTokenIdDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureParametersTokenIdDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureNexuInfoDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureNexuInfoDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureParametersDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureParametersDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureNexuResponseDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureNexuResponseDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureBytesDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureBytesDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/DSSTimeStampedSignatureDocumentForm.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/DSSTimeStampedSignatureDocumentForm.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureParametersInfoDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureParametersInfoDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/DSSTimestampDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/DSSTimestampDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureParametersFeedbackDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureParametersFeedbackDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureNexuDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureNexuDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureParametersResponseDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureParametersResponseDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/DSSEDCIToBeSignedDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/DSSEDCIToBeSignedDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureNexuFeedbackDTO.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/model/signature/SignatureNexuFeedbackDTO.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/job/TLLoaderJob.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/job/TLLoaderJob.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/service/messages/FileService.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/service/messages/FileService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/service/messages/ExposedResourceMessageBundleSource.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/service/messages/ExposedResourceMessageBundleSource.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/service/messages/EsealCoreMessageService.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/service/messages/EsealCoreMessageService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/service/certificate/ESealCertificateService.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/service/certificate/ESealCertificateService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/service/signature/ISignService.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/service/signature/ISignService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/service/signature/ESealSignService.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/service/signature/ESealSignService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/service/signature/XadesSignService.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/service/signature/XadesSignService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/service/signature/JadesSignService.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/service/signature/JadesSignService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/service/validation/JadesValidationService.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/service/validation/JadesValidationService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/service/validation/ESealValidationService.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/service/validation/ESealValidationService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/service/validation/XadesValidationService.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/service/validation/XadesValidationService.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/exception/ESealException.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/exception/ESealException.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/exception/ExceptionResponse.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/exception/ExceptionResponse.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/exception/I18NException.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/exception/I18NException.java
+
+BrevApp: src/main/java/eu/europa/ec/empl/edci/dss/exception/ESealApiErrorMessage.java
+   EDCI: src/main/java/eu/europa/ec/empl/edci/dss/exception/ESealApiErrorMessage.java
+

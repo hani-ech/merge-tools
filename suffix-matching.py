@@ -1,8 +1,5 @@
 """
-This script performs a suffix-based comparison of file paths from two repositories:
-- `edci-commons-brevApp.txt` contains relative paths from the BrevApp version.
-- `edci-commons-EDC.txt` contains relative paths from the EDCI release version.
-
+This script performs a suffix-based comparison of file paths from two repositories stored in two different txt files.
 It compares the paths by checking if one is a suffix of the other, meaning their trailing
 directories and filenames match (even if the root paths differ). This is useful for identifying
 shared file structure or common files across two differently organized projects.
@@ -27,8 +24,8 @@ def is_suffix_match(parts1, parts2):
     return parts1[-min_len:] == parts2[-min_len:]
 
 # Load both path lists
-file1 = "edci-commons-brevApp.txt"
-file2 = "edci-commons-EDC.txt"
+file1 = "edci-eseal-core-brevApp.txt"
+file2 = "edci-eseal-core-EDC.txt"
 
 paths1 = load_paths(file1)
 paths2 = load_paths(file2)

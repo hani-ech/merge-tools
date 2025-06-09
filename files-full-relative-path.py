@@ -9,8 +9,12 @@ This script recursively lists the **relative paths of all files** under a given 
 
 from pathlib import Path
 
-#root_dir = Path("/Users/haniehhabibi/Web2Learn/Projects/BrevApping/european-digital-credentials/edci-commons")
-root_dir = Path("/Users/haniehhabibi/Web2Learn/Projects/BrevApping/BrevApp/edci-commons")
+#EDC
+root_dir = Path("/Users/haniehhabibi/Web2Learn/Projects/BrevApping/european-digital-credentials/edci-eseal-core")
+
+#BrevApp
+#root_dir = Path("/Users/haniehhabibi/Web2Learn/Projects/BrevApping/BrevApp/edci-eseal-core")
+
 
 
 for file in root_dir.rglob("*"):
