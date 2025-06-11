@@ -1,0 +1,1550 @@
+🎯 Matching Paths (Suffix-Based):
+
+BrevApp: licence-EUPL 1.2-brightgreen.svg
+   EDCI: licence-EUPL 1.2-brightgreen.svg
+
+BrevApp: Dockerfile
+   EDCI: Dockerfile
+
+BrevApp: README.docker.md
+   EDCI: README.docker.md
+
+BrevApp: pom.xml
+   EDCI: pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-viewer-service/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-viewer-web-rest-swagger/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-viewer-web/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-viewer-web-rest/pom.xml
+
+BrevApp: pom.xml
+   EDCI: edci-viewer-common/pom.xml
+
+BrevApp: java
+   EDCI: java
+
+BrevApp: README.md
+   EDCI: README.md
+
+BrevApp: README.md
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/lib/ext/README.md
+
+BrevApp: README.md
+   EDCI: edci-viewer-web/src/main/angular/README.md
+
+BrevApp: README.md
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/README.md
+
+BrevApp: package.json
+   EDCI: package.json
+
+BrevApp: package.json
+   EDCI: edci-viewer-web/package.json
+
+BrevApp: package.json
+   EDCI: edci-viewer-web/src/main/angular/package.json
+
+BrevApp: maven.settings.template.xml
+   EDCI: maven.settings.template.xml
+
+BrevApp: edci-viewer-service/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-viewer-service/pom.xml
+   EDCI: edci-viewer-service/pom.xml
+
+BrevApp: edci-viewer-service/src/test/resources/credential_test.xml
+   EDCI: edci-viewer-service/src/test/resources/credential_test.xml
+
+BrevApp: edci-viewer-service/src/test/resources/diploma/diploma_default.html
+   EDCI: edci-viewer-service/src/test/resources/diploma/diploma_default.html
+
+BrevApp: edci-viewer-service/src/test/resources/diploma/diploma_default_thymeleaf.html
+   EDCI: edci-viewer-service/src/test/resources/diploma/diploma_default_thymeleaf.html
+
+BrevApp: edci-viewer-service/src/test/resources/diploma/diploma-background.png
+   EDCI: edci-viewer-service/src/test/resources/diploma/diploma-background.png
+
+BrevApp: edci-viewer-service/src/test/resources/diploma/logo_default.png
+   EDCI: edci-viewer-service/src/test/resources/diploma/logo_default.png
+
+BrevApp: edci-viewer-service/src/test/resources/diploma/diploma_credential.xml
+   EDCI: edci-viewer-service/src/test/resources/diploma/diploma_credential.xml
+
+BrevApp: edci-viewer-service/src/main/java/eu/europa/ec/empl/edci/viewer/service/CredentialService.java
+   EDCI: edci-viewer-service/src/main/java/eu/europa/ec/empl/edci/viewer/service/CredentialService.java
+
+BrevApp: edci-viewer-service/src/main/java/eu/europa/ec/empl/edci/viewer/service/ShareLinkService.java
+   EDCI: edci-viewer-service/src/main/java/eu/europa/ec/empl/edci/viewer/service/ShareLinkService.java
+
+BrevApp: edci-viewer-service/src/main/java/eu/europa/ec/empl/edci/viewer/service/ViewerConfigService.java
+   EDCI: edci-viewer-service/src/main/java/eu/europa/ec/empl/edci/viewer/service/ViewerConfigService.java
+
+BrevApp: edci-viewer-service/src/main/java/eu/europa/ec/empl/edci/viewer/service/CredentialDetailService.java
+   EDCI: edci-viewer-service/src/main/java/eu/europa/ec/empl/edci/viewer/service/CredentialDetailService.java
+
+BrevApp: edci-viewer-service/src/main/java/eu/europa/ec/empl/edci/viewer/service/ShareLinkDetailService.java
+   EDCI: edci-viewer-service/src/main/java/eu/europa/ec/empl/edci/viewer/service/ShareLinkDetailService.java
+
+BrevApp: edci-viewer-web-rest-swagger/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-viewer-web-rest-swagger/pom.xml
+   EDCI: edci-viewer-web-rest-swagger/pom.xml
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/META-INF/services/io.swagger.codegen.CodegenConfig
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/META-INF/services/io.swagger.codegen.CodegenConfig
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/classType.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/classType.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/licenseInfo.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/licenseInfo.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/configuration.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/configuration.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/model.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/model.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/apis.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/apis.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/index.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/index.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/tsconfig.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/tsconfig.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/package.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/package.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/README.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/README.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/variables.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/variables.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/api.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/api.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/typings.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/typings.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/models.mustache
+   EDCI: edci-viewer-web-rest-swagger/src/main/resources/typescript-codegen/models.mustache
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/java/eu/europa/ec/empl/edci/viewer/codegen/TypescriptClientCodegen.java
+   EDCI: edci-viewer-web-rest-swagger/src/main/java/eu/europa/ec/empl/edci/viewer/codegen/TypescriptClientCodegen.java
+
+BrevApp: edci-viewer-web-rest-swagger/src/main/java/eu/europa/ec/empl/edci/viewer/codegen/AbstractTypescriptClientCodegen.java
+   EDCI: edci-viewer-web-rest-swagger/src/main/java/eu/europa/ec/empl/edci/viewer/codegen/AbstractTypescriptClientCodegen.java
+
+BrevApp: edci-viewer-web/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-viewer-web/pom.xml
+   EDCI: edci-viewer-web/pom.xml
+
+BrevApp: edci-viewer-web/sonar-project.properties
+   EDCI: edci-viewer-web/sonar-project.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_no.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_no.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_de.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_de.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_bg.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_bg.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_sr.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_sr.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_sl.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_sl.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_el.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_el.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_fr.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_fr.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_mt.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_mt.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_sk.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_sk.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_pl.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_pl.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_en.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_en.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_fi.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_fi.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_ro.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_ro.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_pt.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_pt.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_es.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_es.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_da.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_da.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_hr.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_hr.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_sv.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_sv.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_is.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_is.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_lv.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_lv.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_it.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_it.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_cs.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_cs.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_tr.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_tr.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_hu.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_hu.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_ga.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_ga.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_nl.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_nl.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_et.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_et.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_mk.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_mk.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages_lt.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages_lt.properties
+
+BrevApp: edci-viewer-web/src/main/resources-unfiltered/messages.properties
+   EDCI: edci-viewer-web/src/main/resources-unfiltered/messages.properties
+
+BrevApp: edci-viewer-web/src/main/resources/log4j2.xml
+   EDCI: edci-viewer-web/src/main/resources/log4j2.xml
+
+BrevApp: edci-viewer-web/src/main/resources/log4j.xml.ecas
+   EDCI: edci-viewer-web/src/main/resources/log4j.xml.ecas
+
+BrevApp: edci-viewer-web/src/main/resources/ecas-config-issuer.xml
+   EDCI: edci-viewer-web/src/main/resources/ecas-config-issuer.xml
+
+BrevApp: edci-viewer-web/src/main/resources/custom-swagger-templates/api.service.mustache
+   EDCI: edci-viewer-web/src/main/resources/custom-swagger-templates/api.service.mustache
+
+BrevApp: edci-viewer-web/src/main/resources/custom-swagger-templates/api.module.mustache
+   EDCI: edci-viewer-web/src/main/resources/custom-swagger-templates/api.module.mustache
+
+BrevApp: edci-viewer-web/src/main/resources/config/docker/viewerStart.sh
+   EDCI: edci-viewer-web/src/main/resources/config/docker/viewerStart.sh
+
+BrevApp: edci-viewer-web/src/main/resources/config/docker/tomcat/catalina.properties
+   EDCI: edci-viewer-web/src/main/resources/config/docker/tomcat/catalina.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/docker/tomcat/server.xml
+   EDCI: edci-viewer-web/src/main/resources/config/docker/tomcat/server.xml
+
+BrevApp: edci-viewer-web/src/main/resources/config/security/security_dev.properties
+   EDCI: edci-viewer-web/src/main/resources/config/security/security_dev.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/security/security_default.properties
+   EDCI: edci-viewer-web/src/main/resources/config/security/security_default.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/security/security_prod.properties
+   EDCI: edci-viewer-web/src/main/resources/config/security/security_prod.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/security/security_docker.properties
+   EDCI: edci-viewer-web/src/main/resources/config/security/security_docker.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/ext/proxy/proxy.properties
+   EDCI: edci-viewer-web/src/main/resources/config/ext/proxy/proxy.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/ext/shacl/shacl.properties
+   EDCI: edci-viewer-web/src/main/resources/config/ext/shacl/shacl.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/ext/conf/viewer_front.properties
+   EDCI: edci-viewer-web/src/main/resources/config/ext/conf/viewer_front.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/ext/conf/viewer.properties
+   EDCI: edci-viewer-web/src/main/resources/config/ext/conf/viewer.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/ext/conf/security.properties
+   EDCI: edci-viewer-web/src/main/resources/config/ext/conf/security.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/viewer/viewer_dev.properties
+   EDCI: edci-viewer-web/src/main/resources/config/viewer/viewer_dev.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/viewer/viewer_docker.properties
+   EDCI: edci-viewer-web/src/main/resources/config/viewer/viewer_docker.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/viewer/viewer_prod.properties
+   EDCI: edci-viewer-web/src/main/resources/config/viewer/viewer_prod.properties
+
+BrevApp: edci-viewer-web/src/main/resources/config/viewer/viewer_default.properties
+   EDCI: edci-viewer-web/src/main/resources/config/viewer/viewer_default.properties
+
+BrevApp: edci-viewer-web/src/main/webapp/index.jsp
+   EDCI: edci-viewer-web/src/main/webapp/index.jsp
+
+BrevApp: edci-viewer-web/src/main/webapp/index_with_credential.jsp
+   EDCI: edci-viewer-web/src/main/webapp/index_with_credential.jsp
+
+BrevApp: edci-viewer-web/src/main/webapp/WEB-INF/applicationContext.xml
+   EDCI: edci-viewer-web/src/main/webapp/WEB-INF/applicationContext.xml
+
+BrevApp: edci-viewer-web/src/main/webapp/WEB-INF/spring-REST-servlet.xml
+   EDCI: edci-viewer-web/src/main/webapp/WEB-INF/spring-REST-servlet.xml
+
+BrevApp: edci-viewer-web/src/main/webapp/WEB-INF/web.xml
+   EDCI: edci-viewer-web/src/main/webapp/WEB-INF/web.xml
+
+BrevApp: edci-viewer-web/src/main/webapp/WEB-INF/spring-MVC-servlet.xml
+   EDCI: edci-viewer-web/src/main/webapp/WEB-INF/spring-MVC-servlet.xml
+
+BrevApp: edci-viewer-web/src/main/angular/.euirc.json
+   EDCI: edci-viewer-web/src/main/angular/.euirc.json
+
+BrevApp: edci-viewer-web/src/main/angular/.editorconfig
+   EDCI: edci-viewer-web/src/main/angular/.editorconfig
+
+BrevApp: edci-viewer-web/src/main/angular/README.md
+   EDCI: README.md
+
+BrevApp: edci-viewer-web/src/main/angular/README.md
+   EDCI: edci-viewer-web/src/main/angular/README.md
+
+BrevApp: edci-viewer-web/src/main/angular/angular.json
+   EDCI: edci-viewer-web/src/main/angular/angular.json
+
+BrevApp: edci-viewer-web/src/main/angular/.stylelintrc
+   EDCI: edci-viewer-web/src/main/angular/.stylelintrc
+
+BrevApp: edci-viewer-web/src/main/angular/yarn.lock
+   EDCI: edci-viewer-web/src/main/angular/yarn.lock
+
+BrevApp: edci-viewer-web/src/main/angular/ngsw-config.json
+   EDCI: edci-viewer-web/src/main/angular/ngsw-config.json
+
+BrevApp: edci-viewer-web/src/main/angular/.gitignore
+   EDCI: edci-viewer-web/src/main/angular/.gitignore
+
+BrevApp: edci-viewer-web/src/main/angular/package-lock.json
+   EDCI: edci-viewer-web/src/main/angular/package-lock.json
+
+BrevApp: edci-viewer-web/src/main/angular/package.json
+   EDCI: package.json
+
+BrevApp: edci-viewer-web/src/main/angular/package.json
+   EDCI: edci-viewer-web/src/main/angular/package.json
+
+BrevApp: edci-viewer-web/src/main/angular/.eslintrc.js
+   EDCI: edci-viewer-web/src/main/angular/.eslintrc.js
+
+BrevApp: edci-viewer-web/src/main/angular/tsconfig.json
+   EDCI: edci-viewer-web/src/main/angular/tsconfig.json
+
+BrevApp: edci-viewer-web/src/main/angular/proxy-mock.conf.json
+   EDCI: edci-viewer-web/src/main/angular/proxy-mock.conf.json
+
+BrevApp: edci-viewer-web/src/main/angular/.browserslistrc
+   EDCI: edci-viewer-web/src/main/angular/.browserslistrc
+
+BrevApp: edci-viewer-web/src/main/angular/dist.zip
+   EDCI: edci-viewer-web/src/main/angular/dist.zip
+
+BrevApp: edci-viewer-web/src/main/angular/proxy.conf.json
+   EDCI: edci-viewer-web/src/main/angular/proxy.conf.json
+
+BrevApp: edci-viewer-web/src/main/angular/.eslintrc.json
+   EDCI: edci-viewer-web/src/main/angular/.eslintrc.json
+
+BrevApp: edci-viewer-web/src/main/angular/mock/server.js
+   EDCI: edci-viewer-web/src/main/angular/mock/server.js
+
+BrevApp: edci-viewer-web/src/main/angular/mock/app/models/user.js
+   EDCI: edci-viewer-web/src/main/angular/mock/app/models/user.js
+
+BrevApp: edci-viewer-web/src/main/angular/mock/app/routes/user_routes.js
+   EDCI: edci-viewer-web/src/main/angular/mock/app/routes/user_routes.js
+
+BrevApp: edci-viewer-web/src/main/angular/mock/app/routes/index.js
+   EDCI: edci-viewer-web/src/main/angular/mock/app/routes/index.js
+
+BrevApp: edci-viewer-web/src/main/angular/mock/db/db.json
+   EDCI: edci-viewer-web/src/main/angular/mock/db/db.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/favicon.ico
+   EDCI: edci-viewer-web/src/main/angular/src/favicon.ico
+
+BrevApp: edci-viewer-web/src/main/angular/src/index.html
+   EDCI: edci-viewer-web/src/main/angular/src/index.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/main.ts
+   EDCI: edci-viewer-web/src/main/angular/src/main.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/tsconfig.app.json
+   EDCI: edci-viewer-web/src/main/angular/src/tsconfig.app.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/styles.scss
+   EDCI: edci-viewer-web/src/main/angular/src/styles.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/test.ts
+   EDCI: edci-viewer-web/src/main/angular/src/test.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/karma.conf.js
+   EDCI: edci-viewer-web/src/main/angular/src/karma.conf.js
+
+BrevApp: edci-viewer-web/src/main/angular/src/dummy.spec.ts
+   EDCI: edci-viewer-web/src/main/angular/src/dummy.spec.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/manifest.webmanifest
+   EDCI: edci-viewer-web/src/main/angular/src/manifest.webmanifest
+
+BrevApp: edci-viewer-web/src/main/angular/src/tsconfig.spec.json
+   EDCI: edci-viewer-web/src/main/angular/src/tsconfig.spec.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/app.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/app.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/app-routing.module.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/app-routing.module.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/app.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/app.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/app-starter.service.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/app-starter.service.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/custom-preloading.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/custom-preloading.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/app.module.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/app.module.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/app.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/app.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/core/operators.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/core/operators.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/core/core.module.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/core/core.module.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/core/httpinterceptors/viewer.interceptor.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/core/httpinterceptors/viewer.interceptor.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/core/components/.gitkeep
+   EDCI: edci-viewer-web/src/main/angular/src/app/core/components/.gitkeep
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/core/reducers/index.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/core/reducers/index.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/core/services/response-error-growl.service.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/core/services/response-error-growl.service.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/core/services/entity-link.service.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/core/services/entity-link.service.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/core/services/viewer.service.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/core/services/viewer.service.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/core/services/share-data.service.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/core/services/share-data.service.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/home/home.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/home/home.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/home/home.module.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/home/home.module.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/home/home-routing.module.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/home/home-routing.module.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/home/home.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/home/home.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/home/home.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/home/home.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/diploma-details.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/diploma-details.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/diploma-details.module.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/diploma-details.module.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/diploma-details.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/diploma-details.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/diploma-details-routing.module.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/diploma-details-routing.module.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/diploma-details.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/diploma-details.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/assessments/assessments.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/assessments/assessments.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/assessments/assessments.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/assessments/assessments.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/assessments/assessments.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/assessments/assessments.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/achievements/achievements.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/achievements/achievements.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/achievements/achievements.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/achievements/achievements.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/achievements/achievements.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/achievements/achievements.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/display-diploma/display-diploma.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/display-diploma/display-diploma.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/display-diploma/display-diploma.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/display-diploma/display-diploma.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/display-diploma/display-diploma.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/display-diploma/display-diploma.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/verification/verification.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/verification/verification.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/verification/verification.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/verification/verification.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/verification/verification.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/verification/verification.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/entitlements/entitlements.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/entitlements/entitlements.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/entitlements/entitlements.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/entitlements/entitlements.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/entitlements/entitlements.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/entitlements/entitlements.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/issuing-organization/issuing-organization.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/issuing-organization/issuing-organization.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/issuing-organization/issuing-organization.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/issuing-organization/issuing-organization.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/issuing-organization/issuing-organization.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/issuing-organization/issuing-organization.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/activities/activities.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/activities/activities.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/activities/activities.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/activities/activities.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/activities/activities.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/activities/activities.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/credential-owner/credential-owner.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/credential-owner/credential-owner.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/credential-owner/credential-owner.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/credential-owner/credential-owner.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/credential-owner/credential-owner.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/features/diploma-details/components/credential-owner/credential-owner.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger.zip
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger.zip
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/constants.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/constants.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/shared.module.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/shared.module.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/directives/copy-to-clipboard.directive.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/directives/copy-to-clipboard.directive.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/.swagger-codegen-ignore
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/.swagger-codegen-ignore
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/api.module.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/api.module.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/encoder.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/encoder.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/README.md
+   EDCI: README.md
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/README.md
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/README.md
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/git_push.sh
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/git_push.sh
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/.gitignore
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/.gitignore
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/variables.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/variables.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/index.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/index.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/configuration.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/configuration.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/.swagger-codegen/VERSION
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/.swagger-codegen/VERSION
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/creditPointFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/creditPointFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/gradingSchemeFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/gradingSchemeFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/shareLinkInfoView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/shareLinkInfoView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/credentialMetadataTabView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/credentialMetadataTabView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/locationFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/locationFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/legalIdentifier.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/legalIdentifier.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/resultDistributionFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/resultDistributionFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/noteFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/noteFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/identifier.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/identifier.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/claimView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/claimView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/conceptDTO.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/conceptDTO.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/awardingProcessFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/awardingProcessFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/apiErrorMessage.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/apiErrorMessage.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/credentialSubjectTabView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/credentialSubjectTabView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/europassCredentialPresentationView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/europassCredentialPresentationView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/addressFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/addressFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/phoneFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/phoneFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/awardingOpportunityFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/awardingOpportunityFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/achievementSpecTabView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/achievementSpecTabView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/verificationCheckView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/verificationCheckView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/userDetailsView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/userDetailsView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/shortenedGradingFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/shortenedGradingFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/learningOutcomeFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/learningOutcomeFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/activitySpecTabView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/activitySpecTabView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/evidenceFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/evidenceFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/resultCategoryFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/resultCategoryFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/agentView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/agentView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/verificationCheckReport.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/verificationCheckReport.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/qualificationFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/qualificationFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/activityTabView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/activityTabView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/resource.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/resource.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/shareLinkView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/shareLinkView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/accreditationFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/accreditationFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/conceptSchemeReport.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/conceptSchemeReport.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/contactPointFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/contactPointFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/byteArrayResource.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/byteArrayResource.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/amountFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/amountFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/linkFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/linkFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/priceDetailFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/priceDetailFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/mailboxFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/mailboxFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/entitlementSpecTabView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/entitlementSpecTabView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/conceptSchemeDTO.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/conceptSchemeDTO.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/assessmentSpecTabView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/assessmentSpecTabView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/learningOpportunityFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/learningOpportunityFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/models.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/models.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/mediaObjectFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/mediaObjectFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/inputStream.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/inputStream.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/grantFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/grantFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/entitlementTabView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/entitlementTabView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/europassDiplomaView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/europassDiplomaView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/organizationTabView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/organizationTabView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/credentialBaseView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/credentialBaseView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/resourceShareLinkInfoView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/resourceShareLinkInfoView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/assessmentTabView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/assessmentTabView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/multipartFile.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/multipartFile.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/identifierFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/identifierFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/groupFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/groupFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/conceptReport.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/conceptReport.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/link.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/link.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/europassCredentialPresentationLiteView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/europassCredentialPresentationLiteView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/periodOfTimeFieldView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/periodOfTimeFieldView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/achievementTabView.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/model/achievementTabView.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/api/v1.service.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/api/v1.service.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/swagger/api/api.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/swagger/api/api.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/pipes/multilingual.pipe.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/pipes/multilingual.pipe.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/pipes/sanitize.pipe.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/pipes/sanitize.pipe.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/pipes/has-children.pipe.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/pipes/has-children.pipe.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/pipes/join-address.pipe.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/pipes/join-address.pipe.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/pipes/join.pipe.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/pipes/join.pipe.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/testing/router.mock.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/testing/router.mock.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/section/section.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/section/section.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/section/section.component.spec.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/section/section.component.spec.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/section/section.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/section/section.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/section/section.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/section/section.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/panel/panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/panel/panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/panel/panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/panel/panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/panel/panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/panel/panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/organization-detail/organization-detail.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/organization-detail/organization-detail.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/organization-detail/organization-detail.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/organization-detail/organization-detail.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/organization-detail/organization-detail.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/organization-detail/organization-detail.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/side-menu-item-list.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/side-menu-item-list.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/side-menu-item-list.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/side-menu-item-list.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/side-menu-item-list.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/side-menu-item-list.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-list/menu-list.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-list/menu-list.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-list/menu-list.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-list/menu-list.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-list/menu-list.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-list/menu-list.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-item/menu-item.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-item/menu-item.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-item/menu-item.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-item/menu-item.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-item/menu-item.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/side-menu-item-list/menu-item/menu-item.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-detail.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-detail.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-detail.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-detail.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-detail.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-detail.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-information-panel/entitlement-information-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-information-panel/entitlement-information-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-information-panel/entitlement-information-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-information-panel/entitlement-information-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-information-panel/entitlement-information-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-information-panel/entitlement-information-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-main-panel/entitlement-main-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-main-panel/entitlement-main-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-main-panel/entitlement-main-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-main-panel/entitlement-main-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-main-panel/entitlement-main-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-main-panel/entitlement-main-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-other-information-panel/entitlement-other-information-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-other-information-panel/entitlement-other-information-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-other-information-panel/entitlement-other-information-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-other-information-panel/entitlement-other-information-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-other-information-panel/entitlement-other-information-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entitlement-detail/entitlement-other-information-panel/entitlement-other-information-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/detail-organisation-section/detail-organisation-section.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/detail-organisation-section/detail-organisation-section.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/detail-organisation-section/detail-organisation-section.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/detail-organisation-section/detail-organisation-section.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/detail-organisation-section/detail-organisation-section.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/detail-organisation-section/detail-organisation-section.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/identifiers/identifiers.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/identifiers/identifiers.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/identifiers/identifiers.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/identifiers/identifiers.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/identifiers/identifiers.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/identifiers/identifiers.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/spinner-dialog/spinner-dialog.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/spinner-dialog/spinner-dialog.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/spinner-dialog/spinner-dialog.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/spinner-dialog/spinner-dialog.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/spinner-dialog/spinner-dialog.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/spinner-dialog/spinner-dialog.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-detail.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-detail.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-detail.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-detail.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-detail.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-detail.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-other-information-panel/activity-other-information-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-other-information-panel/activity-other-information-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-other-information-panel/activity-other-information-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-other-information-panel/activity-other-information-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-other-information-panel/activity-other-information-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-other-information-panel/activity-other-information-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-main-panel/activity-main-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-main-panel/activity-main-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-main-panel/activity-main-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-main-panel/activity-main-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-main-panel/activity-main-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-main-panel/activity-main-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-information-panel/activity-information-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-information-panel/activity-information-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-information-panel/activity-information-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-information-panel/activity-information-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-information-panel/activity-information-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/activity-detail/activity-information-panel/activity-information-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/more-information/more-information.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/more-information/more-information.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/more-information/more-information.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/more-information/more-information.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/more-information/more-information.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/more-information/more-information.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entity-modal/entity-modal.configuration.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entity-modal/entity-modal.configuration.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entity-modal/entity-modal.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entity-modal/entity-modal.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entity-modal/entity-modal.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entity-modal/entity-modal.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/entity-modal/entity-modal.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/entity-modal/entity-modal.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/contact-detail/contact-detail.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/contact-detail/contact-detail.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/contact-detail/contact-detail.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/contact-detail/contact-detail.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/contact-detail/contact-detail.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/contact-detail/contact-detail.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/contact-detail/contact-detail.component.spec.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/contact-detail/contact-detail.component.spec.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-detail.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-detail.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-detail.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-detail.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-detail.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-detail.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-learning-outcomes-panel/achievement-learning-outcomes-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-learning-outcomes-panel/achievement-learning-outcomes-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-learning-outcomes-panel/achievement-learning-outcomes-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-learning-outcomes-panel/achievement-learning-outcomes-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-learning-outcomes-panel/achievement-learning-outcomes-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-learning-outcomes-panel/achievement-learning-outcomes-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-other-information-panel/achievement-other-information-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-other-information-panel/achievement-other-information-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-other-information-panel/achievement-other-information-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-other-information-panel/achievement-other-information-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-other-information-panel/achievement-other-information-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-other-information-panel/achievement-other-information-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-main-panel/achievement-main-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-main-panel/achievement-main-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-main-panel/achievement-main-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-main-panel/achievement-main-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-main-panel/achievement-main-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-main-panel/achievement-main-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-information-panel/achievement-information-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-information-panel/achievement-information-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-information-panel/achievement-information-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-information-panel/achievement-information-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-information-panel/achievement-information-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/achievement-detail/achievement-information-panel/achievement-information-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/accreditation-panel/accreditation-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/accreditation-panel/accreditation-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/accreditation-panel/accreditation-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/accreditation-panel/accreditation-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/accreditation-panel/accreditation-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/accreditation-panel/accreditation-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/diploma-toolbar/diploma-toolbar.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/diploma-toolbar/diploma-toolbar.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/diploma-toolbar/diploma-toolbar.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/diploma-toolbar/diploma-toolbar.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/diploma-toolbar/diploma-toolbar.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/diploma-toolbar/diploma-toolbar.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/information-field/information-field.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/information-field/information-field.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/information-field/information-field.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/information-field/information-field.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/information-field/information-field.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/information-field/information-field.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-detail.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-detail.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-detail.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-detail.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-detail.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-detail.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-main-panel/assessment-main-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-main-panel/assessment-main-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-main-panel/assessment-main-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-main-panel/assessment-main-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-main-panel/assessment-main-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-main-panel/assessment-main-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-other-information-panel/assessment-other-information-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-other-information-panel/assessment-other-information-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-other-information-panel/assessment-other-information-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-other-information-panel/assessment-other-information-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-other-information-panel/assessment-other-information-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-other-information-panel/assessment-other-information-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-information-panel/assessment-information-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-information-panel/assessment-information-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-information-panel/assessment-information-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-information-panel/assessment-information-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-information-panel/assessment-information-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-information-panel/assessment-information-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-grading-scheme-panel/assessment-grading-scheme-panel.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-grading-scheme-panel/assessment-grading-scheme-panel.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-grading-scheme-panel/assessment-grading-scheme-panel.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-grading-scheme-panel/assessment-grading-scheme-panel.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-grading-scheme-panel/assessment-grading-scheme-panel.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/assessment-detail/assessment-grading-scheme-panel/assessment-grading-scheme-panel.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/other-documents/other-documents.component.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/other-documents/other-documents.component.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/other-documents/other-documents.component.html
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/other-documents/other-documents.component.html
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/components/other-documents/other-documents.component.scss
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/components/other-documents/other-documents.component.scss
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/model/entityModalInformation.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/model/entityModalInformation.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/material/material.module.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/material/material.module.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/shared/animations/openClose.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/shared/animations/openClose.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/app/guards/viewer.guard.ts
+   EDCI: edci-viewer-web/src/main/angular/src/app/guards/viewer.guard.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/config/modules.ts
+   EDCI: edci-viewer-web/src/main/angular/src/config/modules.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/config/global.ts
+   EDCI: edci-viewer-web/src/main/angular/src/config/global.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/config/index.ts
+   EDCI: edci-viewer-web/src/main/angular/src/config/index.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/environments/environment.prod.ts
+   EDCI: edci-viewer-web/src/main/angular/src/environments/environment.prod.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/environments/environment.branding.ts
+   EDCI: edci-viewer-web/src/main/angular/src/environments/environment.branding.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/environments/environment.ts
+   EDCI: edci-viewer-web/src/main/angular/src/environments/environment.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/environments/environment.back.ts
+   EDCI: edci-viewer-web/src/main/angular/src/environments/environment.back.ts
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/favicon.ico
+   EDCI: edci-viewer-web/src/main/angular/src/assets/favicon.ico
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/.gitkeep
+   EDCI: edci-viewer-web/src/main/angular/src/assets/.gitkeep
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/env-json-config.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/env-json-config.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/config/env-json-config-ENV.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/config/env-json-config-ENV.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/config/env-json-config-local.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/config/env-json-config-local.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/config/env-json-config-dev.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/config/env-json-config-dev.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/config/env-json-config-proxy.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/config/env-json-config-proxy.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/config/env-json-config-mock.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/config/env-json-config-mock.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logoEuropass.png
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logoEuropass.png
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/my-future-section.png
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/my-future-section.png
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/fin_header.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/fin_header.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/FR.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/FR.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/GA.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/GA.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SR.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SR.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/EN.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/EN.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/EL.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/EL.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SV.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SV.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/PL.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/PL.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SRC.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SRC.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/NL.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/NL.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/MT.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/MT.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/NO.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/NO.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/LT.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/LT.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/TR.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/TR.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/LV.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/LV.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/BG.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/BG.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/MK.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/MK.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/CS.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/CS.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/IT.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/IT.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SL.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SL.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/DE.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/DE.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/ET.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/ET.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/PT.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/PT.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/HR.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/HR.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SRL.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SRL.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SK.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/SK.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/RO.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/RO.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/IS.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/IS.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/HU.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/HU.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/DA.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/DA.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/FI.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/FI.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/ES.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/images/logo_countries/ES.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-learning-settings.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-learning-settings.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-192x192.png
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-192x192.png
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-diploma.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-diploma.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-calendar.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-calendar.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-type.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-type.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-activity.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-activity.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-subject.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-subject.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-learning-activity-type.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-learning-activity-type.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-building.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-building.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-credit-points.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-credit-points.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-achievement.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-achievement.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/apple-touch-icon.png
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/apple-touch-icon.png
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-thematic-area.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-thematic-area.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-duration.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-duration.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-university.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-university.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-valid-within.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-valid-within.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/verified-icon.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/verified-icon.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-file.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-file.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-assessment.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-assessment.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-tooltip.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-tooltip.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-entitlement.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-entitlement.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/ribbon-green.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/ribbon-green.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-education-level.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-education-level.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-notional-workload-in-hours.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-notional-workload-in-hours.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-target-group.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-target-group.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-512x512.png
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-512x512.png
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-status.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-status.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-chart.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-chart.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-languages-of-instruction.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-languages-of-instruction.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/icon-mode-of-assessment.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/icon-mode-of-assessment.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-organisation.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/menu-item-organisation.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/icons/ribbon-red.svg
+   EDCI: edci-viewer-web/src/main/angular/src/assets/icons/ribbon-red.svg
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/tr.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/tr.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/mk.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/mk.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/sl.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/sl.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/hu.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/hu.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/lt.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/lt.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/is.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/is.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/nl.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/nl.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/de.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/de.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/mt.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/mt.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/pl.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/pl.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/fi.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/fi.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/sk.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/sk.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/pt.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/pt.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/en.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/en.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/it.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/it.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/sr.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/sr.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/hr.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/hr.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/et.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/et.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/ga.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/ga.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/fr.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/fr.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/el.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/el.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/bg.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/bg.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/ro.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/ro.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/lo.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/lo.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/cs.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/cs.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/lv.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/lv.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/no.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/no.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/da.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/da.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/sv.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/sv.json
+
+BrevApp: edci-viewer-web/src/main/angular/src/assets/i18n/es.json
+   EDCI: edci-viewer-web/src/main/angular/src/assets/i18n/es.json
+
+BrevApp: edci-viewer-web-rest/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-viewer-web-rest/pom.xml
+   EDCI: edci-viewer-web-rest/pom.xml
+
+BrevApp: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/mvc/ViewerMVCMainController.java
+   EDCI: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/mvc/ViewerMVCMainController.java
+
+BrevApp: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/exception/ExceptionResponse.java
+   EDCI: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/exception/ExceptionResponse.java
+
+BrevApp: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/exception/ExceptionViewerControllerAdvice.java
+   EDCI: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/exception/ExceptionViewerControllerAdvice.java
+
+BrevApp: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/rest/CrudResource.java
+   EDCI: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/rest/CrudResource.java
+
+BrevApp: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/rest/v1/ShareLinkResource.java
+   EDCI: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/rest/v1/ShareLinkResource.java
+
+BrevApp: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/rest/v1/CredentialResource.java
+   EDCI: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/rest/v1/CredentialResource.java
+
+BrevApp: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/rest/v1/UserResource.java
+   EDCI: edci-viewer-web-rest/src/main/java/eu/europa/ec/empl/edci/viewer/web/rest/v1/UserResource.java
+
+BrevApp: edci-viewer-common/pom.xml
+   EDCI: pom.xml
+
+BrevApp: edci-viewer-common/pom.xml
+   EDCI: edci-viewer-common/pom.xml
+
+BrevApp: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/constants/Parameter.java
+   EDCI: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/constants/Parameter.java
+
+BrevApp: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/constants/ViewerEndpoint.java
+   EDCI: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/constants/ViewerEndpoint.java
+
+BrevApp: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/constants/ViewerConfig.java
+   EDCI: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/constants/ViewerConfig.java
+
+BrevApp: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/model/CredentialBaseView.java
+   EDCI: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/model/CredentialBaseView.java
+
+BrevApp: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/model/ShareLinkView.java
+   EDCI: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/model/ShareLinkView.java
+
+BrevApp: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/model/ShareLinkFetchResponseDTO.java
+   EDCI: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/model/ShareLinkFetchResponseDTO.java
+
+BrevApp: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/model/ShareLinkInfoView.java
+   EDCI: edci-viewer-common/src/main/java/eu/europa/ec/empl/edci/viewer/common/model/ShareLinkInfoView.java
+

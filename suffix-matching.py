@@ -24,8 +24,8 @@ def is_suffix_match(parts1, parts2):
     return parts1[-min_len:] == parts2[-min_len:]
 
 # Load both path lists
-file1 = "edci-eseal-core-brevApp.txt"
-file2 = "edci-eseal-core-EDC.txt"
+file1 = "edci-viewer-brevApp.txt"
+file2 = "edci-viewer-EDC.txt"
 
 paths1 = load_paths(file1)
 paths2 = load_paths(file2)
